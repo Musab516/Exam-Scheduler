@@ -1,0 +1,201 @@
+student_id,program,year,semester,campus,courses
+S1,BBA,3,7,City,Business Finance|Business Intelligence|Accounting for Shariah Compliance|History of Ideas|Introduction to Business Ethics
+S2,BBA,4,8,City,Managerial Economics|Business Intelligence|French Language|Accounting for Shariah Compliance|Microeconomics
+S3,BBA,2,2,City,Principles of Marketing|Microeconomics|Business Communication|Statistical Inference|Introduction to Business Ethics
+S4,BBA,2,2,City,Principles of Marketing|Introduction to Trade Marketing|History of Ideas|Business Finance|Introduction to Business Finance
+S5,BBA,2,3,Main,Business Finance|Managerial Economics|Arabic Language|Introduction to Business Finance|Business Communication
+S6,BBA,3,1,City,Microeconomics|Principles of Marketing|Managerial Economics|French Language|Arabic Language
+S7,BBA,4,7,Main,Business Finance|Business Intelligence|Advanced Business Research|French Language|Statistical Inference
+S8,BBA,4,4,City,Introduction to Business Finance|History of Ideas|Business Finance|French Language|Managerial Economics
+S9,BBA,3,3,Main,Managerial Economics|Accounting for Shariah Compliance|French Language|Arabic Language|Business Communication
+S10,BBA,1,2,City,Principles of Marketing|French Language|Human Resource Management|Advanced Business Research|History of Ideas
+S11,BBA,2,1,Main,Human Resource Management|Principles of Microeconomics|Introduction to Business Finance|Arabic Language|Business Finance
+S12,BBA,1,2,Main,Principles of Marketing|Business Finance|Managerial Economics|History of Ideas|Statistical Inference
+S13,BBA,1,8,Main,Managerial Economics|Statistical Inference|Principles of Marketing|Business Intelligence|Microeconomics
+S14,BBA,4,1,City,Managerial Economics|History of Ideas|Business Finance|Advanced Business Research|Statistical Inference
+S15,BBA,2,4,Main,Accounting for Shariah Compliance|French Language|Arabic Language|Business Intelligence|Microeconomics
+S16,BBA,3,3,Main,Introduction to Business Ethics|Principles of Marketing|Business Finance|Principles of Microeconomics|Introduction to Business Finance
+S17,BBA,3,6,Main,Microeconomics|Human Resource Management|Principles of Microeconomics|Introduction to Business Finance|Managerial Economics
+S18,BBA,2,5,Main,Introduction to Business Finance|Business Communication|Introduction to Trade Marketing|Statistical Inference|History of Ideas
+S19,BBA,3,7,City,Business Intelligence|Business Finance|Introduction to Trade Marketing|Introduction to Business Ethics|Advanced Business Research
+S20,BBA,2,1,City,Business Intelligence|Business Finance|Business Communication|Microeconomics|Advanced Business Research
+S21,BBA,1,8,City,Managerial Economics|History of Ideas|Human Resource Management|Microeconomics|Statistical Inference
+S22,BBA,3,7,City,Business Finance|Business Intelligence|Arabic Language|Principles of Microeconomics|Advanced Business Research
+S23,BBA,2,7,City,Business Intelligence|Business Finance|Advanced Business Research|Arabic Language|Microeconomics
+S24,BBA,2,7,City,Business Intelligence|Business Finance|Arabic Language|Microeconomics|Introduction to Trade Marketing
+S25,BBA,2,4,City,Managerial Economics|Accounting for Shariah Compliance|Introduction to Trade Marketing|Business Finance|Introduction to Business Finance
+S26,BBA,4,3,Main,Accounting for Shariah Compliance|French Language|Introduction to Trade Marketing|Microeconomics|Business Finance
+S27,BBA,4,7,Main,Business Finance|Business Intelligence|Introduction to Trade Marketing|Managerial Economics|Microeconomics
+S28,BBA,2,7,City,Business Intelligence|Business Finance|Microeconomics|Managerial Economics|Introduction to Trade Marketing
+S29,BBA,3,4,Main,Arabic Language|Business Finance|Principles of Microeconomics|Introduction to Business Finance|French Language
+S30,BBA,3,8,Main,Managerial Economics|Introduction to Trade Marketing|Principles of Microeconomics|Microeconomics|Advanced Business Research
+S31,BBA,1,4,City,Human Resource Management|Introduction to Business Finance|Statistical Inference|Managerial Economics|Business Finance
+S32,BBA,1,7,Main,Business Finance|Business Intelligence|Arabic Language|Human Resource Management|Business Communication
+S33,BBA,2,4,City,Human Resource Management|Managerial Economics|Microeconomics|Introduction to Business Ethics|Arabic Language
+S34,BBA,3,4,City,Business Finance|Managerial Economics|Business Communication|Accounting for Shariah Compliance|Introduction to Business Ethics
+S35,BBA,2,1,Main,Introduction to Business Ethics|Principles of Marketing|Statistical Inference|Arabic Language|Advanced Business Research
+S36,BBA,4,2,Main,Principles of Marketing|French Language|Microeconomics|Accounting for Shariah Compliance|Principles of Microeconomics
+S37,BBA,4,4,Main,French Language|Managerial Economics|History of Ideas|Business Communication|Business Finance
+S38,BBA,3,6,City,Principles of Microeconomics|Microeconomics|Human Resource Management|Introduction to Trade Marketing|Arabic Language
+S39,BBA,3,8,City,Managerial Economics|Advanced Business Research|Human Resource Management|History of Ideas|French Language
+S40,BBA,3,5,City,Business Communication|Introduction to Business Finance|Principles of Marketing|Business Intelligence|Accounting for Shariah Compliance
+S41,BBA,1,8,City,Managerial Economics|Principles of Marketing|Principles of Microeconomics|History of Ideas|Business Finance
+S42,BBA,2,6,City,Principles of Microeconomics|Microeconomics|Human Resource Management|Introduction to Trade Marketing|Introduction to Business Ethics
+S43,BBA,4,6,Main,Principles of Microeconomics|Human Resource Management|Microeconomics|Managerial Economics|History of Ideas
+S44,BBA,2,4,Main,Managerial Economics|Statistical Inference|Business Communication|Human Resource Management|French Language
+S45,BBA,4,5,City,Business Communication|Introduction to Business Finance|Principles of Marketing|Microeconomics|History of Ideas
+S46,BBA,2,3,City,Microeconomics|Business Finance|Introduction to Business Finance|French Language|Human Resource Management
+S47,BBA,4,4,Main,Principles of Microeconomics|History of Ideas|Accounting for Shariah Compliance|Advanced Business Research|Arabic Language
+S48,BBA,3,8,City,Managerial Economics|Accounting for Shariah Compliance|Advanced Business Research|Business Communication|Principles of Marketing
+S49,BBA,4,8,City,Managerial Economics|Introduction to Business Ethics|Human Resource Management|Business Intelligence|Microeconomics
+S50,BBA,3,3,Main,History of Ideas|Accounting for Shariah Compliance|Introduction to Trade Marketing|Principles of Marketing|Arabic Language
+S51,BSCS,4,3,Main,Machine Learning|Discrete Mathematics|Reinforcement Learning|Data Structures|Arabic Language
+S52,BSCS,1,1,Main,Human Computer Interaction|Data Structures|Introduction to Business Ethics|Advanced Business Research|Introduction to Programming
+S53,BSCS,1,1,City,Human Computer Interaction|Statistical Inference|Introduction to Business Ethics|Data Structures|Arabic Language
+S54,BSCS,2,3,Main,Discrete Mathematics|Machine Learning|Advanced Business Research|Introduction to Trade Marketing|Statistical Inference
+S55,BSCS,1,3,Main,Discrete Mathematics|Machine Learning|Reinforcement Learning|Arabic Language|Introduction to Programming
+S56,BSCS,3,8,Main,Data Structures|History of Ideas|Introduction to Trade Marketing|Human Computer Interaction|Data Warehousing
+S57,BSCS,4,8,Main,Data Structures|Statistical Inference|Human Computer Interaction|Introduction to Business Ethics|Reinforcement Learning
+S58,BSCS,4,1,Main,Human Computer Interaction|Introduction to Programming|Machine Learning|French Language|Introduction to Business Ethics
+S59,BSCS,3,1,City,Human Computer Interaction|History of Ideas|Data Structures|Introduction to Programming|Accounting for Shariah Compliance
+S60,BSCS,4,1,Main,Human Computer Interaction|Discrete Mathematics|Introduction to Business Ethics|Reinforcement Learning|Machine Learning
+S61,BSCS,1,2,Main,Data Warehousing|Introduction to Trade Marketing|French Language|Machine Learning|Advanced Business Research
+S62,BSCS,2,4,City,Statistical Inference|Arabic Language|Reinforcement Learning|Accounting for Shariah Compliance|History of Ideas
+S63,BSCS,3,6,City,Machine Learning|History of Ideas|Advanced Business Research|Data Structures|Data Warehousing
+S64,BSCS,3,2,City,Data Warehousing|Introduction to Business Ethics|History of Ideas|Accounting for Shariah Compliance|Machine Learning
+S65,BSCS,2,8,Main,Data Structures|Discrete Mathematics|Advanced Business Research|Statistical Inference|Introduction to Business Ethics
+S66,BSCS,1,5,Main,Reinforcement Learning|Advanced Business Research|Arabic Language|Introduction to Trade Marketing|Data Warehousing
+S67,BSCS,4,2,City,Data Warehousing|Advanced Business Research|Reinforcement Learning|Human Computer Interaction|French Language
+S68,BSCS,4,7,Main,Introduction to Programming|Advanced Business Research|Arabic Language|Discrete Mathematics|Machine Learning
+S69,BSCS,2,1,Main,Human Computer Interaction|Arabic Language|Advanced Business Research|Machine Learning|History of Ideas
+S70,BSCS,4,8,City,Data Structures|Introduction to Programming|Discrete Mathematics|Arabic Language|Reinforcement Learning
+S71,BSCS,1,2,Main,Data Warehousing|Advanced Business Research|Introduction to Business Ethics|French Language|Machine Learning
+S72,BSCS,4,4,City,Arabic Language|Introduction to Trade Marketing|Introduction to Programming|Discrete Mathematics|Data Warehousing
+S73,BSCS,1,1,City,Human Computer Interaction|Machine Learning|Accounting for Shariah Compliance|Reinforcement Learning|History of Ideas
+S74,BSCS,2,1,City,Human Computer Interaction|Statistical Inference|Reinforcement Learning|Introduction to Business Ethics|Introduction to Trade Marketing
+S75,BSCS,2,1,Main,Human Computer Interaction|Statistical Inference|Machine Learning|Data Warehousing|Arabic Language
+S76,BSCS,1,7,City,Introduction to Programming|Advanced Business Research|Accounting for Shariah Compliance|Arabic Language|Machine Learning
+S77,BSCS,2,3,City,Discrete Mathematics|Machine Learning|History of Ideas|Arabic Language|Statistical Inference
+S78,BSCS,4,6,Main,History of Ideas|Arabic Language|Machine Learning|Reinforcement Learning|Data Structures
+S79,BSCS,3,2,Main,Data Warehousing|Human Computer Interaction|Advanced Business Research|French Language|Introduction to Trade Marketing
+S80,BSCS,4,2,Main,Data Warehousing|Introduction to Business Ethics|Accounting for Shariah Compliance|Machine Learning|Discrete Mathematics
+S81,BSCS,3,2,City,Data Warehousing|Accounting for Shariah Compliance|Introduction to Trade Marketing|French Language|Human Computer Interaction
+S82,BSCS,1,6,City,Data Structures|Discrete Mathematics|Human Computer Interaction|Machine Learning|Introduction to Programming
+S83,BSCS,4,8,Main,Data Structures|Reinforcement Learning|Accounting for Shariah Compliance|Machine Learning|Human Computer Interaction
+S84,BSCS,4,6,City,Human Computer Interaction|Data Warehousing|History of Ideas|French Language|Introduction to Business Ethics
+S85,BSCS,4,3,Main,Discrete Mathematics|Machine Learning|Human Computer Interaction|Accounting for Shariah Compliance|Statistical Inference
+S86,BSCS,2,5,Main,Reinforcement Learning|Data Warehousing|Statistical Inference|Introduction to Trade Marketing|Machine Learning
+S87,BSCS,3,2,Main,Data Warehousing|Introduction to Programming|Arabic Language|History of Ideas|Statistical Inference
+S88,BSCS,2,7,City,Introduction to Programming|Human Computer Interaction|Data Structures|History of Ideas|Introduction to Business Ethics
+S89,BSCS,3,6,Main,Introduction to Programming|Statistical Inference|Accounting for Shariah Compliance|Introduction to Business Ethics|Discrete Mathematics
+S90,BSCS,1,2,City,Data Warehousing|History of Ideas|Machine Learning|Reinforcement Learning|Introduction to Trade Marketing
+S91,BSCS,3,8,City,Data Structures|French Language|Discrete Mathematics|Introduction to Business Ethics|Human Computer Interaction
+S92,BSCS,2,2,Main,Data Warehousing|Introduction to Trade Marketing|Data Structures|History of Ideas|French Language
+S93,BSCS,4,3,City,Machine Learning|Discrete Mathematics|Arabic Language|Introduction to Programming|Data Warehousing
+S94,BSCS,1,7,Main,Introduction to Programming|French Language|Introduction to Trade Marketing|History of Ideas|Discrete Mathematics
+S95,BSCS,3,2,Main,Data Warehousing|Accounting for Shariah Compliance|Reinforcement Learning|Data Structures|Arabic Language
+S96,BSCS,4,6,Main,Introduction to Programming|Statistical Inference|French Language|Arabic Language|Introduction to Business Ethics
+S97,BSCS,4,5,City,Reinforcement Learning|History of Ideas|Introduction to Programming|Introduction to Business Ethics|Accounting for Shariah Compliance
+S98,BSCS,2,2,Main,Data Warehousing|Machine Learning|Introduction to Business Ethics|Data Structures|Accounting for Shariah Compliance
+S99,BSCS,2,7,Main,Introduction to Programming|Data Warehousing|Introduction to Business Ethics|Machine Learning|Accounting for Shariah Compliance
+S100,BSCS,3,5,City,Reinforcement Learning|Data Warehousing|Advanced Business Research|French Language|History of Ideas
+S101,BSAF,2,8,Main,Statistical Inference|History of Ideas|Advanced Business Research|Introduction to Trade Marketing|Business Finance
+S102,BSAF,4,3,City,Business Finance|Regulation and Financial Market|Statistical Inference|Introduction to Trade Marketing|Arabic Language
+S103,BSAF,3,7,City,Financial Institutions and Markets|International Financial Management|Business Finance|Arabic Language|Regulation and Financial Market
+S104,BSAF,3,2,City,Regulation and Financial Market|Accounting for Shariah Compliance|Introduction to Business Ethics|Financial Institutions and Markets|Statistical Inference
+S105,BSAF,4,4,Main,Introduction to Business Ethics|Statistical Inference|French Language|Introduction to Business Finance|Introduction to Trade Marketing
+S106,BSAF,1,8,Main,Business Finance|Introduction to Business Ethics|Advanced Business Research|Introduction to Trade Marketing|Financial Institutions and Markets
+S107,BSAF,1,5,City,Business Communication|Introduction to Business Finance|Advanced Business Research|Accounting for Shariah Compliance|Financial Institutions and Markets
+S108,BSAF,4,6,City,Business Communication|Financial Institutions and Markets|French Language|Introduction to Business Ethics|Regulation and Financial Market
+S109,BSAF,3,8,City,Business Communication|French Language|Accounting for Shariah Compliance|International Financial Management|Business Finance
+S110,BSAF,3,3,City,Introduction to Trade Marketing|French Language|Business Finance|Business Communication|Introduction to Business Finance
+S111,BSAF,4,4,City,Business Communication|Statistical Inference|Introduction to Business Finance|Introduction to Business Ethics|Introduction to Trade Marketing
+S112,BSAF,4,3,City,Statistical Inference|French Language|Advanced Business Research|Business Communication|International Financial Management
+S113,BSAF,4,5,Main,Introduction to Business Finance|Business Communication|Regulation and Financial Market|Statistical Inference|Introduction to Trade Marketing
+S114,BSAF,4,6,City,International Financial Management|Business Finance|French Language|Introduction to Business Finance|Statistical Inference
+S115,BSAF,3,7,Main,Business Finance|Financial Institutions and Markets|International Financial Management|Advanced Business Research|Accounting for Shariah Compliance
+S116,BSAF,2,4,Main,International Financial Management|French Language|Accounting for Shariah Compliance|Introduction to Business Finance|Business Communication
+S117,BSAF,2,8,City,Financial Institutions and Markets|Introduction to Business Finance|International Financial Management|Introduction to Trade Marketing|French Language
+S118,BSAF,1,5,City,Business Communication|Introduction to Business Finance|Financial Institutions and Markets|Regulation and Financial Market|Statistical Inference
+S119,BSAF,2,8,City,Introduction to Business Finance|Business Communication|Regulation and Financial Market|Advanced Business Research|Financial Institutions and Markets
+S120,BSAF,3,4,Main,Advanced Business Research|Business Communication|Statistical Inference|International Financial Management|French Language
+S121,BSAF,4,7,Main,Business Finance|Financial Institutions and Markets|International Financial Management|Business Communication|Regulation and Financial Market
+S122,BSAF,4,8,City,Regulation and Financial Market|French Language|Introduction to Business Finance|International Financial Management|Accounting for Shariah Compliance
+S123,BSAF,1,7,City,International Financial Management|Financial Institutions and Markets|Business Finance|French Language|Accounting for Shariah Compliance
+S124,BSAF,1,2,Main,Regulation and Financial Market|Business Finance|Business Communication|Accounting for Shariah Compliance|Introduction to Business Finance
+S125,BSAF,2,6,Main,Advanced Business Research|Statistical Inference|International Financial Management|Business Finance|Business Communication
+S126,BSAF,3,7,City,Financial Institutions and Markets|International Financial Management|Business Finance|Business Communication|French Language
+S127,BSAF,1,2,Main,Regulation and Financial Market|Business Finance|Introduction to Business Finance|International Financial Management|Financial Institutions and Markets
+S128,BSAF,2,5,Main,Introduction to Business Finance|Business Communication|Statistical Inference|International Financial Management|Financial Institutions and Markets
+S129,BSAF,3,8,City,Statistical Inference|Introduction to Business Finance|Regulation and Financial Market|Financial Institutions and Markets|International Financial Management
+S130,BSAF,2,8,City,Financial Institutions and Markets|Advanced Business Research|Business Communication|Regulation and Financial Market|Introduction to Business Finance
+S131,BSAF,4,1,Main,Financial Institutions and Markets|Statistical Inference|International Financial Management|Business Communication|Introduction to Business Finance
+S132,BSAF,4,5,Main,Business Communication|Introduction to Business Finance|Regulation and Financial Market|International Financial Management|French Language
+S133,BSAF,2,2,City,Regulation and Financial Market|Financial Institutions and Markets|French Language|Statistical Inference|Business Communication
+S134,BSAF,3,5,City,Business Communication|Introduction to Business Finance|International Financial Management|Advanced Business Research|French Language
+S135,BSAF,4,4,City,French Language|Introduction to Business Finance|Advanced Business Research|Business Communication|Financial Institutions and Markets
+S136,BSAF,1,8,City,Introduction to Business Finance|Financial Institutions and Markets|International Financial Management|Business Communication|Statistical Inference
+S137,BSAF,3,8,Main,Business Communication|Financial Institutions and Markets|French Language|Introduction to Business Finance|Regulation and Financial Market
+S138,BSAF,1,5,Main,Introduction to Business Finance|Business Communication|Statistical Inference|Financial Institutions and Markets|French Language
+S139,BSAF,3,1,Main,Business Communication|Advanced Business Research|Financial Institutions and Markets|Introduction to Business Finance|International Financial Management
+S140,BSAF,2,3,Main,Regulation and Financial Market|Financial Institutions and Markets|International Financial Management|Advanced Business Research|Introduction to Business Finance
+S141,BSAF,3,3,City,Regulation and Financial Market|International Financial Management|Financial Institutions and Markets|Statistical Inference|Introduction to Business Finance
+S142,BSAF,2,8,City,Business Communication|Introduction to Business Finance|International Financial Management|Financial Institutions and Markets|Statistical Inference
+S143,BSAF,2,3,City,Business Communication|Financial Institutions and Markets|Statistical Inference|Regulation and Financial Market|International Financial Management
+S144,BSAF,1,7,Main,Financial Institutions and Markets|International Financial Management|Regulation and Financial Market|Statistical Inference|Business Communication
+S145,BSAF,4,8,City,International Financial Management|Business Communication|Regulation and Financial Market|Financial Institutions and Markets
+S146,BSAF,2,1,Main,Business Communication|International Financial Management|Regulation and Financial Market|Financial Institutions and Markets
+S147,BSAF,1,5,Main,Business Communication|Financial Institutions and Markets|Regulation and Financial Market|International Financial Management
+S148,BSAF,3,3,City,Regulation and Financial Market|Financial Institutions and Markets|International Financial Management
+S149,BSAF,4,4,Main,International Financial Management|Regulation and Financial Market|Financial Institutions and Markets
+S150,BSAF,4,5,City,Regulation and Financial Market|Financial Institutions and Markets
+S151,BSECO,4,7,Main,Partial Differential Equations|Environmental Economics|Applied Econometrics|Principles of Microeconomics|Microeconomics
+S152,BSECO,3,6,City,Principles of Microeconomics|Microeconomics|Environmental Economics|Partial Differential Equations|Applied Econometrics
+S153,BSECO,3,3,Main,Discrete Mathematics|Applied Econometrics|Principles of Microeconomics|Microeconomics|Environmental Economics
+S154,BSECO,3,3,Main,Discrete Mathematics|Partial Differential Equations|Environmental Economics|Principles of Microeconomics|Microeconomics
+S155,BSECO,3,4,Main,Environmental Economics|Microeconomics|Principles of Microeconomics|Applied Econometrics|Discrete Mathematics
+S156,BSECO,3,3,Main,Discrete Mathematics|Principles of Microeconomics|Partial Differential Equations|Environmental Economics|Applied Econometrics
+S157,BSECO,4,7,Main,Environmental Economics|Partial Differential Equations|Discrete Mathematics|Applied Econometrics|Principles of Microeconomics
+S158,BSECO,4,7,Main,Partial Differential Equations|Microeconomics|Principles of Microeconomics|Applied Econometrics|Environmental Economics
+S159,BSECO,2,8,Main,Partial Differential Equations|Microeconomics|Environmental Economics|Applied Econometrics|Principles of Microeconomics
+S160,BSECO,3,8,Main,Partial Differential Equations|Applied Econometrics|Microeconomics|Principles of Microeconomics|Environmental Economics
+S161,BSECO,3,3,City,Discrete Mathematics|Environmental Economics|Principles of Microeconomics|Microeconomics|Applied Econometrics
+S162,BSECO,3,1,Main,Environmental Economics|Partial Differential Equations|Applied Econometrics|Principles of Microeconomics|Microeconomics
+S163,BSECO,2,8,Main,Partial Differential Equations|Discrete Mathematics|Principles of Microeconomics|Microeconomics|Applied Econometrics
+S164,BSECO,4,7,City,Applied Econometrics|Partial Differential Equations|Principles of Microeconomics|Microeconomics|Environmental Economics
+S165,BSECO,4,8,City,Partial Differential Equations|Principles of Microeconomics|Microeconomics|Applied Econometrics|Environmental Economics
+S166,BSECO,2,8,Main,Partial Differential Equations|Environmental Economics|Microeconomics|Applied Econometrics|Discrete Mathematics
+S167,BSECO,2,1,City,Environmental Economics|Principles of Microeconomics|Applied Econometrics|Microeconomics|Discrete Mathematics
+S168,BSECO,3,1,Main,Partial Differential Equations|Microeconomics|Discrete Mathematics|Environmental Economics|Applied Econometrics
+S169,BSECO,2,5,City,Applied Econometrics|Partial Differential Equations|Environmental Economics|Principles of Microeconomics|Discrete Mathematics
+S170,BSECO,1,8,Main,Partial Differential Equations|Applied Econometrics|Principles of Microeconomics|Environmental Economics|Discrete Mathematics
+S171,BSECO,3,5,Main,Applied Econometrics|Discrete Mathematics|Principles of Microeconomics|Partial Differential Equations|Environmental Economics
+S172,BSECO,2,8,City,Partial Differential Equations|Discrete Mathematics|Applied Econometrics|Environmental Economics|Principles of Microeconomics
+S173,BSECO,2,2,City,Environmental Economics|Partial Differential Equations|Discrete Mathematics|Principles of Microeconomics|Applied Econometrics
+S174,BSECO,4,1,City,Principles of Microeconomics|Environmental Economics|Discrete Mathematics|Applied Econometrics|Partial Differential Equations
+S175,BSECO,1,6,City,Principles of Microeconomics|Partial Differential Equations|Discrete Mathematics|Applied Econometrics|Environmental Economics
+S176,BSECO,2,2,Main,Principles of Microeconomics|Applied Econometrics|Environmental Economics|Partial Differential Equations|Discrete Mathematics
+S177,BSECO,4,6,Main,Principles of Microeconomics|Applied Econometrics|Discrete Mathematics|Environmental Economics|Partial Differential Equations
+S178,BSECO,2,3,Main,Discrete Mathematics|Partial Differential Equations|Applied Econometrics|Environmental Economics|Principles of Microeconomics
+S179,BSECO,3,1,City,Applied Econometrics|Partial Differential Equations|Discrete Mathematics|Environmental Economics
+S180,BSECO,3,3,City,Discrete Mathematics|Partial Differential Equations|Applied Econometrics|Environmental Economics
+S181,BSECO,3,5,Main,Applied Econometrics|Discrete Mathematics|Environmental Economics|Partial Differential Equations
+S182,BSECO,4,3,Main,Discrete Mathematics|Applied Econometrics|Partial Differential Equations|Environmental Economics
+S183,BSECO,2,5,Main,Applied Econometrics|Partial Differential Equations|Environmental Economics|Discrete Mathematics
+S184,BSECO,2,4,City,Environmental Economics|Partial Differential Equations|Discrete Mathematics|Applied Econometrics
+S185,BSECO,4,4,City,Environmental Economics|Applied Econometrics|Partial Differential Equations|Discrete Mathematics
+S186,BSECO,3,3,City,Discrete Mathematics|Environmental Economics|Partial Differential Equations|Applied Econometrics
+S187,BSECO,4,7,Main,Discrete Mathematics|Partial Differential Equations|Environmental Economics|Applied Econometrics
+S188,BSECO,4,2,City,Applied Econometrics|Environmental Economics|Partial Differential Equations
+S189,BSECO,4,6,City,Partial Differential Equations|Applied Econometrics|Environmental Economics
+S190,BSECO,1,6,Main,Applied Econometrics|Partial Differential Equations|Environmental Economics
+S191,BSECO,3,8,Main,Partial Differential Equations|Environmental Economics|Applied Econometrics
+S192,BSECO,2,7,City,Partial Differential Equations|Applied Econometrics|Environmental Economics
+S193,BSECO,4,4,City,Partial Differential Equations|Applied Econometrics
+S194,BSECO,3,6,City,Partial Differential Equations
+S195,BSECO,4,3,City,Partial Differential Equations
+S196,BSECO,1,1,Main,Partial Differential Equations
+S197,BSECO,1,8,Main,Partial Differential Equations
+S198,BSECO,4,3,City,
+S199,BSECO,4,1,Main,
+S200,BSECO,3,3,Main,

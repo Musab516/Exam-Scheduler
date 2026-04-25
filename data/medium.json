@@ -1,0 +1,2975 @@
+{
+    "students": {
+        "S1": {
+            "program": "BBA",
+            "year": 3,
+            "semester": 7,
+            "home_campus": "City",
+            "courses": [
+                "Business Finance",
+                "Business Intelligence",
+                "Accounting for Shariah Compliance",
+                "History of Ideas",
+                "Introduction to Business Ethics"
+            ]
+        },
+        "S2": {
+            "program": "BBA",
+            "year": 4,
+            "semester": 8,
+            "home_campus": "City",
+            "courses": [
+                "Managerial Economics",
+                "Business Intelligence",
+                "French Language",
+                "Accounting for Shariah Compliance",
+                "Microeconomics"
+            ]
+        },
+        "S3": {
+            "program": "BBA",
+            "year": 2,
+            "semester": 2,
+            "home_campus": "City",
+            "courses": [
+                "Principles of Marketing",
+                "Microeconomics",
+                "Business Communication",
+                "Statistical Inference",
+                "Introduction to Business Ethics"
+            ]
+        },
+        "S4": {
+            "program": "BBA",
+            "year": 2,
+            "semester": 2,
+            "home_campus": "City",
+            "courses": [
+                "Principles of Marketing",
+                "Introduction to Trade Marketing",
+                "History of Ideas",
+                "Business Finance",
+                "Introduction to Business Finance"
+            ]
+        },
+        "S5": {
+            "program": "BBA",
+            "year": 2,
+            "semester": 3,
+            "home_campus": "Main",
+            "courses": [
+                "Business Finance",
+                "Managerial Economics",
+                "Arabic Language",
+                "Introduction to Business Finance",
+                "Business Communication"
+            ]
+        },
+        "S6": {
+            "program": "BBA",
+            "year": 3,
+            "semester": 1,
+            "home_campus": "City",
+            "courses": [
+                "Microeconomics",
+                "Principles of Marketing",
+                "Managerial Economics",
+                "French Language",
+                "Arabic Language"
+            ]
+        },
+        "S7": {
+            "program": "BBA",
+            "year": 4,
+            "semester": 7,
+            "home_campus": "Main",
+            "courses": [
+                "Business Finance",
+                "Business Intelligence",
+                "Advanced Business Research",
+                "French Language",
+                "Statistical Inference"
+            ]
+        },
+        "S8": {
+            "program": "BBA",
+            "year": 4,
+            "semester": 4,
+            "home_campus": "City",
+            "courses": [
+                "Introduction to Business Finance",
+                "History of Ideas",
+                "Business Finance",
+                "French Language",
+                "Managerial Economics"
+            ]
+        },
+        "S9": {
+            "program": "BBA",
+            "year": 3,
+            "semester": 3,
+            "home_campus": "Main",
+            "courses": [
+                "Managerial Economics",
+                "Accounting for Shariah Compliance",
+                "French Language",
+                "Arabic Language",
+                "Business Communication"
+            ]
+        },
+        "S10": {
+            "program": "BBA",
+            "year": 1,
+            "semester": 2,
+            "home_campus": "City",
+            "courses": [
+                "Principles of Marketing",
+                "French Language",
+                "Human Resource Management",
+                "Advanced Business Research",
+                "History of Ideas"
+            ]
+        },
+        "S11": {
+            "program": "BBA",
+            "year": 2,
+            "semester": 1,
+            "home_campus": "Main",
+            "courses": [
+                "Human Resource Management",
+                "Principles of Microeconomics",
+                "Introduction to Business Finance",
+                "Arabic Language",
+                "Business Finance"
+            ]
+        },
+        "S12": {
+            "program": "BBA",
+            "year": 1,
+            "semester": 2,
+            "home_campus": "Main",
+            "courses": [
+                "Principles of Marketing",
+                "Business Finance",
+                "Managerial Economics",
+                "History of Ideas",
+                "Statistical Inference"
+            ]
+        },
+        "S13": {
+            "program": "BBA",
+            "year": 1,
+            "semester": 8,
+            "home_campus": "Main",
+            "courses": [
+                "Managerial Economics",
+                "Statistical Inference",
+                "Principles of Marketing",
+                "Business Intelligence",
+                "Microeconomics"
+            ]
+        },
+        "S14": {
+            "program": "BBA",
+            "year": 4,
+            "semester": 1,
+            "home_campus": "City",
+            "courses": [
+                "Managerial Economics",
+                "History of Ideas",
+                "Business Finance",
+                "Advanced Business Research",
+                "Statistical Inference"
+            ]
+        },
+        "S15": {
+            "program": "BBA",
+            "year": 2,
+            "semester": 4,
+            "home_campus": "Main",
+            "courses": [
+                "Accounting for Shariah Compliance",
+                "French Language",
+                "Arabic Language",
+                "Business Intelligence",
+                "Microeconomics"
+            ]
+        },
+        "S16": {
+            "program": "BBA",
+            "year": 3,
+            "semester": 3,
+            "home_campus": "Main",
+            "courses": [
+                "Introduction to Business Ethics",
+                "Principles of Marketing",
+                "Business Finance",
+                "Principles of Microeconomics",
+                "Introduction to Business Finance"
+            ]
+        },
+        "S17": {
+            "program": "BBA",
+            "year": 3,
+            "semester": 6,
+            "home_campus": "Main",
+            "courses": [
+                "Microeconomics",
+                "Human Resource Management",
+                "Principles of Microeconomics",
+                "Introduction to Business Finance",
+                "Managerial Economics"
+            ]
+        },
+        "S18": {
+            "program": "BBA",
+            "year": 2,
+            "semester": 5,
+            "home_campus": "Main",
+            "courses": [
+                "Introduction to Business Finance",
+                "Business Communication",
+                "Introduction to Trade Marketing",
+                "Statistical Inference",
+                "History of Ideas"
+            ]
+        },
+        "S19": {
+            "program": "BBA",
+            "year": 3,
+            "semester": 7,
+            "home_campus": "City",
+            "courses": [
+                "Business Intelligence",
+                "Business Finance",
+                "Introduction to Trade Marketing",
+                "Introduction to Business Ethics",
+                "Advanced Business Research"
+            ]
+        },
+        "S20": {
+            "program": "BBA",
+            "year": 2,
+            "semester": 1,
+            "home_campus": "City",
+            "courses": [
+                "Business Intelligence",
+                "Business Finance",
+                "Business Communication",
+                "Microeconomics",
+                "Advanced Business Research"
+            ]
+        },
+        "S21": {
+            "program": "BBA",
+            "year": 1,
+            "semester": 8,
+            "home_campus": "City",
+            "courses": [
+                "Managerial Economics",
+                "History of Ideas",
+                "Human Resource Management",
+                "Microeconomics",
+                "Statistical Inference"
+            ]
+        },
+        "S22": {
+            "program": "BBA",
+            "year": 3,
+            "semester": 7,
+            "home_campus": "City",
+            "courses": [
+                "Business Finance",
+                "Business Intelligence",
+                "Arabic Language",
+                "Principles of Microeconomics",
+                "Advanced Business Research"
+            ]
+        },
+        "S23": {
+            "program": "BBA",
+            "year": 2,
+            "semester": 7,
+            "home_campus": "City",
+            "courses": [
+                "Business Intelligence",
+                "Business Finance",
+                "Advanced Business Research",
+                "Arabic Language",
+                "Microeconomics"
+            ]
+        },
+        "S24": {
+            "program": "BBA",
+            "year": 2,
+            "semester": 7,
+            "home_campus": "City",
+            "courses": [
+                "Business Intelligence",
+                "Business Finance",
+                "Arabic Language",
+                "Microeconomics",
+                "Introduction to Trade Marketing"
+            ]
+        },
+        "S25": {
+            "program": "BBA",
+            "year": 2,
+            "semester": 4,
+            "home_campus": "City",
+            "courses": [
+                "Managerial Economics",
+                "Accounting for Shariah Compliance",
+                "Introduction to Trade Marketing",
+                "Business Finance",
+                "Introduction to Business Finance"
+            ]
+        },
+        "S26": {
+            "program": "BBA",
+            "year": 4,
+            "semester": 3,
+            "home_campus": "Main",
+            "courses": [
+                "Accounting for Shariah Compliance",
+                "French Language",
+                "Introduction to Trade Marketing",
+                "Microeconomics",
+                "Business Finance"
+            ]
+        },
+        "S27": {
+            "program": "BBA",
+            "year": 4,
+            "semester": 7,
+            "home_campus": "Main",
+            "courses": [
+                "Business Finance",
+                "Business Intelligence",
+                "Introduction to Trade Marketing",
+                "Managerial Economics",
+                "Microeconomics"
+            ]
+        },
+        "S28": {
+            "program": "BBA",
+            "year": 2,
+            "semester": 7,
+            "home_campus": "City",
+            "courses": [
+                "Business Intelligence",
+                "Business Finance",
+                "Microeconomics",
+                "Managerial Economics",
+                "Introduction to Trade Marketing"
+            ]
+        },
+        "S29": {
+            "program": "BBA",
+            "year": 3,
+            "semester": 4,
+            "home_campus": "Main",
+            "courses": [
+                "Arabic Language",
+                "Business Finance",
+                "Principles of Microeconomics",
+                "Introduction to Business Finance",
+                "French Language"
+            ]
+        },
+        "S30": {
+            "program": "BBA",
+            "year": 3,
+            "semester": 8,
+            "home_campus": "Main",
+            "courses": [
+                "Managerial Economics",
+                "Introduction to Trade Marketing",
+                "Principles of Microeconomics",
+                "Microeconomics",
+                "Advanced Business Research"
+            ]
+        },
+        "S31": {
+            "program": "BBA",
+            "year": 1,
+            "semester": 4,
+            "home_campus": "City",
+            "courses": [
+                "Human Resource Management",
+                "Introduction to Business Finance",
+                "Statistical Inference",
+                "Managerial Economics",
+                "Business Finance"
+            ]
+        },
+        "S32": {
+            "program": "BBA",
+            "year": 1,
+            "semester": 7,
+            "home_campus": "Main",
+            "courses": [
+                "Business Finance",
+                "Business Intelligence",
+                "Arabic Language",
+                "Human Resource Management",
+                "Business Communication"
+            ]
+        },
+        "S33": {
+            "program": "BBA",
+            "year": 2,
+            "semester": 4,
+            "home_campus": "City",
+            "courses": [
+                "Human Resource Management",
+                "Managerial Economics",
+                "Microeconomics",
+                "Introduction to Business Ethics",
+                "Arabic Language"
+            ]
+        },
+        "S34": {
+            "program": "BBA",
+            "year": 3,
+            "semester": 4,
+            "home_campus": "City",
+            "courses": [
+                "Business Finance",
+                "Managerial Economics",
+                "Business Communication",
+                "Accounting for Shariah Compliance",
+                "Introduction to Business Ethics"
+            ]
+        },
+        "S35": {
+            "program": "BBA",
+            "year": 2,
+            "semester": 1,
+            "home_campus": "Main",
+            "courses": [
+                "Introduction to Business Ethics",
+                "Principles of Marketing",
+                "Statistical Inference",
+                "Arabic Language",
+                "Advanced Business Research"
+            ]
+        },
+        "S36": {
+            "program": "BBA",
+            "year": 4,
+            "semester": 2,
+            "home_campus": "Main",
+            "courses": [
+                "Principles of Marketing",
+                "French Language",
+                "Microeconomics",
+                "Accounting for Shariah Compliance",
+                "Principles of Microeconomics"
+            ]
+        },
+        "S37": {
+            "program": "BBA",
+            "year": 4,
+            "semester": 4,
+            "home_campus": "Main",
+            "courses": [
+                "French Language",
+                "Managerial Economics",
+                "History of Ideas",
+                "Business Communication",
+                "Business Finance"
+            ]
+        },
+        "S38": {
+            "program": "BBA",
+            "year": 3,
+            "semester": 6,
+            "home_campus": "City",
+            "courses": [
+                "Principles of Microeconomics",
+                "Microeconomics",
+                "Human Resource Management",
+                "Introduction to Trade Marketing",
+                "Arabic Language"
+            ]
+        },
+        "S39": {
+            "program": "BBA",
+            "year": 3,
+            "semester": 8,
+            "home_campus": "City",
+            "courses": [
+                "Managerial Economics",
+                "Advanced Business Research",
+                "Human Resource Management",
+                "History of Ideas",
+                "French Language"
+            ]
+        },
+        "S40": {
+            "program": "BBA",
+            "year": 3,
+            "semester": 5,
+            "home_campus": "City",
+            "courses": [
+                "Business Communication",
+                "Introduction to Business Finance",
+                "Principles of Marketing",
+                "Business Intelligence",
+                "Accounting for Shariah Compliance"
+            ]
+        },
+        "S41": {
+            "program": "BBA",
+            "year": 1,
+            "semester": 8,
+            "home_campus": "City",
+            "courses": [
+                "Managerial Economics",
+                "Principles of Marketing",
+                "Principles of Microeconomics",
+                "History of Ideas",
+                "Business Finance"
+            ]
+        },
+        "S42": {
+            "program": "BBA",
+            "year": 2,
+            "semester": 6,
+            "home_campus": "City",
+            "courses": [
+                "Principles of Microeconomics",
+                "Microeconomics",
+                "Human Resource Management",
+                "Introduction to Trade Marketing",
+                "Introduction to Business Ethics"
+            ]
+        },
+        "S43": {
+            "program": "BBA",
+            "year": 4,
+            "semester": 6,
+            "home_campus": "Main",
+            "courses": [
+                "Principles of Microeconomics",
+                "Human Resource Management",
+                "Microeconomics",
+                "Managerial Economics",
+                "History of Ideas"
+            ]
+        },
+        "S44": {
+            "program": "BBA",
+            "year": 2,
+            "semester": 4,
+            "home_campus": "Main",
+            "courses": [
+                "Managerial Economics",
+                "Statistical Inference",
+                "Business Communication",
+                "Human Resource Management",
+                "French Language"
+            ]
+        },
+        "S45": {
+            "program": "BBA",
+            "year": 4,
+            "semester": 5,
+            "home_campus": "City",
+            "courses": [
+                "Business Communication",
+                "Introduction to Business Finance",
+                "Principles of Marketing",
+                "Microeconomics",
+                "History of Ideas"
+            ]
+        },
+        "S46": {
+            "program": "BBA",
+            "year": 2,
+            "semester": 3,
+            "home_campus": "City",
+            "courses": [
+                "Microeconomics",
+                "Business Finance",
+                "Introduction to Business Finance",
+                "French Language",
+                "Human Resource Management"
+            ]
+        },
+        "S47": {
+            "program": "BBA",
+            "year": 4,
+            "semester": 4,
+            "home_campus": "Main",
+            "courses": [
+                "Principles of Microeconomics",
+                "History of Ideas",
+                "Accounting for Shariah Compliance",
+                "Advanced Business Research",
+                "Arabic Language"
+            ]
+        },
+        "S48": {
+            "program": "BBA",
+            "year": 3,
+            "semester": 8,
+            "home_campus": "City",
+            "courses": [
+                "Managerial Economics",
+                "Accounting for Shariah Compliance",
+                "Advanced Business Research",
+                "Business Communication",
+                "Principles of Marketing"
+            ]
+        },
+        "S49": {
+            "program": "BBA",
+            "year": 4,
+            "semester": 8,
+            "home_campus": "City",
+            "courses": [
+                "Managerial Economics",
+                "Introduction to Business Ethics",
+                "Human Resource Management",
+                "Business Intelligence",
+                "Microeconomics"
+            ]
+        },
+        "S50": {
+            "program": "BBA",
+            "year": 3,
+            "semester": 3,
+            "home_campus": "Main",
+            "courses": [
+                "History of Ideas",
+                "Accounting for Shariah Compliance",
+                "Introduction to Trade Marketing",
+                "Principles of Marketing",
+                "Arabic Language"
+            ]
+        },
+        "S51": {
+            "program": "BSCS",
+            "year": 4,
+            "semester": 3,
+            "home_campus": "Main",
+            "courses": [
+                "Machine Learning",
+                "Discrete Mathematics",
+                "Reinforcement Learning",
+                "Data Structures",
+                "Arabic Language"
+            ]
+        },
+        "S52": {
+            "program": "BSCS",
+            "year": 1,
+            "semester": 1,
+            "home_campus": "Main",
+            "courses": [
+                "Human Computer Interaction",
+                "Data Structures",
+                "Introduction to Business Ethics",
+                "Advanced Business Research",
+                "Introduction to Programming"
+            ]
+        },
+        "S53": {
+            "program": "BSCS",
+            "year": 1,
+            "semester": 1,
+            "home_campus": "City",
+            "courses": [
+                "Human Computer Interaction",
+                "Statistical Inference",
+                "Introduction to Business Ethics",
+                "Data Structures",
+                "Arabic Language"
+            ]
+        },
+        "S54": {
+            "program": "BSCS",
+            "year": 2,
+            "semester": 3,
+            "home_campus": "Main",
+            "courses": [
+                "Discrete Mathematics",
+                "Machine Learning",
+                "Advanced Business Research",
+                "Introduction to Trade Marketing",
+                "Statistical Inference"
+            ]
+        },
+        "S55": {
+            "program": "BSCS",
+            "year": 1,
+            "semester": 3,
+            "home_campus": "Main",
+            "courses": [
+                "Discrete Mathematics",
+                "Machine Learning",
+                "Reinforcement Learning",
+                "Arabic Language",
+                "Introduction to Programming"
+            ]
+        },
+        "S56": {
+            "program": "BSCS",
+            "year": 3,
+            "semester": 8,
+            "home_campus": "Main",
+            "courses": [
+                "Data Structures",
+                "History of Ideas",
+                "Introduction to Trade Marketing",
+                "Human Computer Interaction",
+                "Data Warehousing"
+            ]
+        },
+        "S57": {
+            "program": "BSCS",
+            "year": 4,
+            "semester": 8,
+            "home_campus": "Main",
+            "courses": [
+                "Data Structures",
+                "Statistical Inference",
+                "Human Computer Interaction",
+                "Introduction to Business Ethics",
+                "Reinforcement Learning"
+            ]
+        },
+        "S58": {
+            "program": "BSCS",
+            "year": 4,
+            "semester": 1,
+            "home_campus": "Main",
+            "courses": [
+                "Human Computer Interaction",
+                "Introduction to Programming",
+                "Machine Learning",
+                "French Language",
+                "Introduction to Business Ethics"
+            ]
+        },
+        "S59": {
+            "program": "BSCS",
+            "year": 3,
+            "semester": 1,
+            "home_campus": "City",
+            "courses": [
+                "Human Computer Interaction",
+                "History of Ideas",
+                "Data Structures",
+                "Introduction to Programming",
+                "Accounting for Shariah Compliance"
+            ]
+        },
+        "S60": {
+            "program": "BSCS",
+            "year": 4,
+            "semester": 1,
+            "home_campus": "Main",
+            "courses": [
+                "Human Computer Interaction",
+                "Discrete Mathematics",
+                "Introduction to Business Ethics",
+                "Reinforcement Learning",
+                "Machine Learning"
+            ]
+        },
+        "S61": {
+            "program": "BSCS",
+            "year": 1,
+            "semester": 2,
+            "home_campus": "Main",
+            "courses": [
+                "Data Warehousing",
+                "Introduction to Trade Marketing",
+                "French Language",
+                "Machine Learning",
+                "Advanced Business Research"
+            ]
+        },
+        "S62": {
+            "program": "BSCS",
+            "year": 2,
+            "semester": 4,
+            "home_campus": "City",
+            "courses": [
+                "Statistical Inference",
+                "Arabic Language",
+                "Reinforcement Learning",
+                "Accounting for Shariah Compliance",
+                "History of Ideas"
+            ]
+        },
+        "S63": {
+            "program": "BSCS",
+            "year": 3,
+            "semester": 6,
+            "home_campus": "City",
+            "courses": [
+                "Machine Learning",
+                "History of Ideas",
+                "Advanced Business Research",
+                "Data Structures",
+                "Data Warehousing"
+            ]
+        },
+        "S64": {
+            "program": "BSCS",
+            "year": 3,
+            "semester": 2,
+            "home_campus": "City",
+            "courses": [
+                "Data Warehousing",
+                "Introduction to Business Ethics",
+                "History of Ideas",
+                "Accounting for Shariah Compliance",
+                "Machine Learning"
+            ]
+        },
+        "S65": {
+            "program": "BSCS",
+            "year": 2,
+            "semester": 8,
+            "home_campus": "Main",
+            "courses": [
+                "Data Structures",
+                "Discrete Mathematics",
+                "Advanced Business Research",
+                "Statistical Inference",
+                "Introduction to Business Ethics"
+            ]
+        },
+        "S66": {
+            "program": "BSCS",
+            "year": 1,
+            "semester": 5,
+            "home_campus": "Main",
+            "courses": [
+                "Reinforcement Learning",
+                "Advanced Business Research",
+                "Arabic Language",
+                "Introduction to Trade Marketing",
+                "Data Warehousing"
+            ]
+        },
+        "S67": {
+            "program": "BSCS",
+            "year": 4,
+            "semester": 2,
+            "home_campus": "City",
+            "courses": [
+                "Data Warehousing",
+                "Advanced Business Research",
+                "Reinforcement Learning",
+                "Human Computer Interaction",
+                "French Language"
+            ]
+        },
+        "S68": {
+            "program": "BSCS",
+            "year": 4,
+            "semester": 7,
+            "home_campus": "Main",
+            "courses": [
+                "Introduction to Programming",
+                "Advanced Business Research",
+                "Arabic Language",
+                "Discrete Mathematics",
+                "Machine Learning"
+            ]
+        },
+        "S69": {
+            "program": "BSCS",
+            "year": 2,
+            "semester": 1,
+            "home_campus": "Main",
+            "courses": [
+                "Human Computer Interaction",
+                "Arabic Language",
+                "Advanced Business Research",
+                "Machine Learning",
+                "History of Ideas"
+            ]
+        },
+        "S70": {
+            "program": "BSCS",
+            "year": 4,
+            "semester": 8,
+            "home_campus": "City",
+            "courses": [
+                "Data Structures",
+                "Introduction to Programming",
+                "Discrete Mathematics",
+                "Arabic Language",
+                "Reinforcement Learning"
+            ]
+        },
+        "S71": {
+            "program": "BSCS",
+            "year": 1,
+            "semester": 2,
+            "home_campus": "Main",
+            "courses": [
+                "Data Warehousing",
+                "Advanced Business Research",
+                "Introduction to Business Ethics",
+                "French Language",
+                "Machine Learning"
+            ]
+        },
+        "S72": {
+            "program": "BSCS",
+            "year": 4,
+            "semester": 4,
+            "home_campus": "City",
+            "courses": [
+                "Arabic Language",
+                "Introduction to Trade Marketing",
+                "Introduction to Programming",
+                "Discrete Mathematics",
+                "Data Warehousing"
+            ]
+        },
+        "S73": {
+            "program": "BSCS",
+            "year": 1,
+            "semester": 1,
+            "home_campus": "City",
+            "courses": [
+                "Human Computer Interaction",
+                "Machine Learning",
+                "Accounting for Shariah Compliance",
+                "Reinforcement Learning",
+                "History of Ideas"
+            ]
+        },
+        "S74": {
+            "program": "BSCS",
+            "year": 2,
+            "semester": 1,
+            "home_campus": "City",
+            "courses": [
+                "Human Computer Interaction",
+                "Statistical Inference",
+                "Reinforcement Learning",
+                "Introduction to Business Ethics",
+                "Introduction to Trade Marketing"
+            ]
+        },
+        "S75": {
+            "program": "BSCS",
+            "year": 2,
+            "semester": 1,
+            "home_campus": "Main",
+            "courses": [
+                "Human Computer Interaction",
+                "Statistical Inference",
+                "Machine Learning",
+                "Data Warehousing",
+                "Arabic Language"
+            ]
+        },
+        "S76": {
+            "program": "BSCS",
+            "year": 1,
+            "semester": 7,
+            "home_campus": "City",
+            "courses": [
+                "Introduction to Programming",
+                "Advanced Business Research",
+                "Accounting for Shariah Compliance",
+                "Arabic Language",
+                "Machine Learning"
+            ]
+        },
+        "S77": {
+            "program": "BSCS",
+            "year": 2,
+            "semester": 3,
+            "home_campus": "City",
+            "courses": [
+                "Discrete Mathematics",
+                "Machine Learning",
+                "History of Ideas",
+                "Arabic Language",
+                "Statistical Inference"
+            ]
+        },
+        "S78": {
+            "program": "BSCS",
+            "year": 4,
+            "semester": 6,
+            "home_campus": "Main",
+            "courses": [
+                "History of Ideas",
+                "Arabic Language",
+                "Machine Learning",
+                "Reinforcement Learning",
+                "Data Structures"
+            ]
+        },
+        "S79": {
+            "program": "BSCS",
+            "year": 3,
+            "semester": 2,
+            "home_campus": "Main",
+            "courses": [
+                "Data Warehousing",
+                "Human Computer Interaction",
+                "Advanced Business Research",
+                "French Language",
+                "Introduction to Trade Marketing"
+            ]
+        },
+        "S80": {
+            "program": "BSCS",
+            "year": 4,
+            "semester": 2,
+            "home_campus": "Main",
+            "courses": [
+                "Data Warehousing",
+                "Introduction to Business Ethics",
+                "Accounting for Shariah Compliance",
+                "Machine Learning",
+                "Discrete Mathematics"
+            ]
+        },
+        "S81": {
+            "program": "BSCS",
+            "year": 3,
+            "semester": 2,
+            "home_campus": "City",
+            "courses": [
+                "Data Warehousing",
+                "Accounting for Shariah Compliance",
+                "Introduction to Trade Marketing",
+                "French Language",
+                "Human Computer Interaction"
+            ]
+        },
+        "S82": {
+            "program": "BSCS",
+            "year": 1,
+            "semester": 6,
+            "home_campus": "City",
+            "courses": [
+                "Data Structures",
+                "Discrete Mathematics",
+                "Human Computer Interaction",
+                "Machine Learning",
+                "Introduction to Programming"
+            ]
+        },
+        "S83": {
+            "program": "BSCS",
+            "year": 4,
+            "semester": 8,
+            "home_campus": "Main",
+            "courses": [
+                "Data Structures",
+                "Reinforcement Learning",
+                "Accounting for Shariah Compliance",
+                "Machine Learning",
+                "Human Computer Interaction"
+            ]
+        },
+        "S84": {
+            "program": "BSCS",
+            "year": 4,
+            "semester": 6,
+            "home_campus": "City",
+            "courses": [
+                "Human Computer Interaction",
+                "Data Warehousing",
+                "History of Ideas",
+                "French Language",
+                "Introduction to Business Ethics"
+            ]
+        },
+        "S85": {
+            "program": "BSCS",
+            "year": 4,
+            "semester": 3,
+            "home_campus": "Main",
+            "courses": [
+                "Discrete Mathematics",
+                "Machine Learning",
+                "Human Computer Interaction",
+                "Accounting for Shariah Compliance",
+                "Statistical Inference"
+            ]
+        },
+        "S86": {
+            "program": "BSCS",
+            "year": 2,
+            "semester": 5,
+            "home_campus": "Main",
+            "courses": [
+                "Reinforcement Learning",
+                "Data Warehousing",
+                "Statistical Inference",
+                "Introduction to Trade Marketing",
+                "Machine Learning"
+            ]
+        },
+        "S87": {
+            "program": "BSCS",
+            "year": 3,
+            "semester": 2,
+            "home_campus": "Main",
+            "courses": [
+                "Data Warehousing",
+                "Introduction to Programming",
+                "Arabic Language",
+                "History of Ideas",
+                "Statistical Inference"
+            ]
+        },
+        "S88": {
+            "program": "BSCS",
+            "year": 2,
+            "semester": 7,
+            "home_campus": "City",
+            "courses": [
+                "Introduction to Programming",
+                "Human Computer Interaction",
+                "Data Structures",
+                "History of Ideas",
+                "Introduction to Business Ethics"
+            ]
+        },
+        "S89": {
+            "program": "BSCS",
+            "year": 3,
+            "semester": 6,
+            "home_campus": "Main",
+            "courses": [
+                "Introduction to Programming",
+                "Statistical Inference",
+                "Accounting for Shariah Compliance",
+                "Introduction to Business Ethics",
+                "Discrete Mathematics"
+            ]
+        },
+        "S90": {
+            "program": "BSCS",
+            "year": 1,
+            "semester": 2,
+            "home_campus": "City",
+            "courses": [
+                "Data Warehousing",
+                "History of Ideas",
+                "Machine Learning",
+                "Reinforcement Learning",
+                "Introduction to Trade Marketing"
+            ]
+        },
+        "S91": {
+            "program": "BSCS",
+            "year": 3,
+            "semester": 8,
+            "home_campus": "City",
+            "courses": [
+                "Data Structures",
+                "French Language",
+                "Discrete Mathematics",
+                "Introduction to Business Ethics",
+                "Human Computer Interaction"
+            ]
+        },
+        "S92": {
+            "program": "BSCS",
+            "year": 2,
+            "semester": 2,
+            "home_campus": "Main",
+            "courses": [
+                "Data Warehousing",
+                "Introduction to Trade Marketing",
+                "Data Structures",
+                "History of Ideas",
+                "French Language"
+            ]
+        },
+        "S93": {
+            "program": "BSCS",
+            "year": 4,
+            "semester": 3,
+            "home_campus": "City",
+            "courses": [
+                "Machine Learning",
+                "Discrete Mathematics",
+                "Arabic Language",
+                "Introduction to Programming",
+                "Data Warehousing"
+            ]
+        },
+        "S94": {
+            "program": "BSCS",
+            "year": 1,
+            "semester": 7,
+            "home_campus": "Main",
+            "courses": [
+                "Introduction to Programming",
+                "French Language",
+                "Introduction to Trade Marketing",
+                "History of Ideas",
+                "Discrete Mathematics"
+            ]
+        },
+        "S95": {
+            "program": "BSCS",
+            "year": 3,
+            "semester": 2,
+            "home_campus": "Main",
+            "courses": [
+                "Data Warehousing",
+                "Accounting for Shariah Compliance",
+                "Reinforcement Learning",
+                "Data Structures",
+                "Arabic Language"
+            ]
+        },
+        "S96": {
+            "program": "BSCS",
+            "year": 4,
+            "semester": 6,
+            "home_campus": "Main",
+            "courses": [
+                "Introduction to Programming",
+                "Statistical Inference",
+                "French Language",
+                "Arabic Language",
+                "Introduction to Business Ethics"
+            ]
+        },
+        "S97": {
+            "program": "BSCS",
+            "year": 4,
+            "semester": 5,
+            "home_campus": "City",
+            "courses": [
+                "Reinforcement Learning",
+                "History of Ideas",
+                "Introduction to Programming",
+                "Introduction to Business Ethics",
+                "Accounting for Shariah Compliance"
+            ]
+        },
+        "S98": {
+            "program": "BSCS",
+            "year": 2,
+            "semester": 2,
+            "home_campus": "Main",
+            "courses": [
+                "Data Warehousing",
+                "Machine Learning",
+                "Introduction to Business Ethics",
+                "Data Structures",
+                "Accounting for Shariah Compliance"
+            ]
+        },
+        "S99": {
+            "program": "BSCS",
+            "year": 2,
+            "semester": 7,
+            "home_campus": "Main",
+            "courses": [
+                "Introduction to Programming",
+                "Data Warehousing",
+                "Introduction to Business Ethics",
+                "Machine Learning",
+                "Accounting for Shariah Compliance"
+            ]
+        },
+        "S100": {
+            "program": "BSCS",
+            "year": 3,
+            "semester": 5,
+            "home_campus": "City",
+            "courses": [
+                "Reinforcement Learning",
+                "Data Warehousing",
+                "Advanced Business Research",
+                "French Language",
+                "History of Ideas"
+            ]
+        },
+        "S101": {
+            "program": "BSAF",
+            "year": 2,
+            "semester": 8,
+            "home_campus": "Main",
+            "courses": [
+                "Statistical Inference",
+                "History of Ideas",
+                "Advanced Business Research",
+                "Introduction to Trade Marketing",
+                "Business Finance"
+            ]
+        },
+        "S102": {
+            "program": "BSAF",
+            "year": 4,
+            "semester": 3,
+            "home_campus": "City",
+            "courses": [
+                "Business Finance",
+                "Regulation and Financial Market",
+                "Statistical Inference",
+                "Introduction to Trade Marketing",
+                "Arabic Language"
+            ]
+        },
+        "S103": {
+            "program": "BSAF",
+            "year": 3,
+            "semester": 7,
+            "home_campus": "City",
+            "courses": [
+                "Financial Institutions and Markets",
+                "International Financial Management",
+                "Business Finance",
+                "Arabic Language",
+                "Regulation and Financial Market"
+            ]
+        },
+        "S104": {
+            "program": "BSAF",
+            "year": 3,
+            "semester": 2,
+            "home_campus": "City",
+            "courses": [
+                "Regulation and Financial Market",
+                "Accounting for Shariah Compliance",
+                "Introduction to Business Ethics",
+                "Financial Institutions and Markets",
+                "Statistical Inference"
+            ]
+        },
+        "S105": {
+            "program": "BSAF",
+            "year": 4,
+            "semester": 4,
+            "home_campus": "Main",
+            "courses": [
+                "Introduction to Business Ethics",
+                "Statistical Inference",
+                "French Language",
+                "Introduction to Business Finance",
+                "Introduction to Trade Marketing"
+            ]
+        },
+        "S106": {
+            "program": "BSAF",
+            "year": 1,
+            "semester": 8,
+            "home_campus": "Main",
+            "courses": [
+                "Business Finance",
+                "Introduction to Business Ethics",
+                "Advanced Business Research",
+                "Introduction to Trade Marketing",
+                "Financial Institutions and Markets"
+            ]
+        },
+        "S107": {
+            "program": "BSAF",
+            "year": 1,
+            "semester": 5,
+            "home_campus": "City",
+            "courses": [
+                "Business Communication",
+                "Introduction to Business Finance",
+                "Advanced Business Research",
+                "Accounting for Shariah Compliance",
+                "Financial Institutions and Markets"
+            ]
+        },
+        "S108": {
+            "program": "BSAF",
+            "year": 4,
+            "semester": 6,
+            "home_campus": "City",
+            "courses": [
+                "Business Communication",
+                "Financial Institutions and Markets",
+                "French Language",
+                "Introduction to Business Ethics",
+                "Regulation and Financial Market"
+            ]
+        },
+        "S109": {
+            "program": "BSAF",
+            "year": 3,
+            "semester": 8,
+            "home_campus": "City",
+            "courses": [
+                "Business Communication",
+                "French Language",
+                "Accounting for Shariah Compliance",
+                "International Financial Management",
+                "Business Finance"
+            ]
+        },
+        "S110": {
+            "program": "BSAF",
+            "year": 3,
+            "semester": 3,
+            "home_campus": "City",
+            "courses": [
+                "Introduction to Trade Marketing",
+                "French Language",
+                "Business Finance",
+                "Business Communication",
+                "Introduction to Business Finance"
+            ]
+        },
+        "S111": {
+            "program": "BSAF",
+            "year": 4,
+            "semester": 4,
+            "home_campus": "City",
+            "courses": [
+                "Business Communication",
+                "Statistical Inference",
+                "Introduction to Business Finance",
+                "Introduction to Business Ethics",
+                "Introduction to Trade Marketing"
+            ]
+        },
+        "S112": {
+            "program": "BSAF",
+            "year": 4,
+            "semester": 3,
+            "home_campus": "City",
+            "courses": [
+                "Statistical Inference",
+                "French Language",
+                "Advanced Business Research",
+                "Business Communication",
+                "International Financial Management"
+            ]
+        },
+        "S113": {
+            "program": "BSAF",
+            "year": 4,
+            "semester": 5,
+            "home_campus": "Main",
+            "courses": [
+                "Introduction to Business Finance",
+                "Business Communication",
+                "Regulation and Financial Market",
+                "Statistical Inference",
+                "Introduction to Trade Marketing"
+            ]
+        },
+        "S114": {
+            "program": "BSAF",
+            "year": 4,
+            "semester": 6,
+            "home_campus": "City",
+            "courses": [
+                "International Financial Management",
+                "Business Finance",
+                "French Language",
+                "Introduction to Business Finance",
+                "Statistical Inference"
+            ]
+        },
+        "S115": {
+            "program": "BSAF",
+            "year": 3,
+            "semester": 7,
+            "home_campus": "Main",
+            "courses": [
+                "Business Finance",
+                "Financial Institutions and Markets",
+                "International Financial Management",
+                "Advanced Business Research",
+                "Accounting for Shariah Compliance"
+            ]
+        },
+        "S116": {
+            "program": "BSAF",
+            "year": 2,
+            "semester": 4,
+            "home_campus": "Main",
+            "courses": [
+                "International Financial Management",
+                "French Language",
+                "Accounting for Shariah Compliance",
+                "Introduction to Business Finance",
+                "Business Communication"
+            ]
+        },
+        "S117": {
+            "program": "BSAF",
+            "year": 2,
+            "semester": 8,
+            "home_campus": "City",
+            "courses": [
+                "Financial Institutions and Markets",
+                "Introduction to Business Finance",
+                "International Financial Management",
+                "Introduction to Trade Marketing",
+                "French Language"
+            ]
+        },
+        "S118": {
+            "program": "BSAF",
+            "year": 1,
+            "semester": 5,
+            "home_campus": "City",
+            "courses": [
+                "Business Communication",
+                "Introduction to Business Finance",
+                "Financial Institutions and Markets",
+                "Regulation and Financial Market",
+                "Statistical Inference"
+            ]
+        },
+        "S119": {
+            "program": "BSAF",
+            "year": 2,
+            "semester": 8,
+            "home_campus": "City",
+            "courses": [
+                "Introduction to Business Finance",
+                "Business Communication",
+                "Regulation and Financial Market",
+                "Advanced Business Research",
+                "Financial Institutions and Markets"
+            ]
+        },
+        "S120": {
+            "program": "BSAF",
+            "year": 3,
+            "semester": 4,
+            "home_campus": "Main",
+            "courses": [
+                "Advanced Business Research",
+                "Business Communication",
+                "Statistical Inference",
+                "International Financial Management",
+                "French Language"
+            ]
+        },
+        "S121": {
+            "program": "BSAF",
+            "year": 4,
+            "semester": 7,
+            "home_campus": "Main",
+            "courses": [
+                "Business Finance",
+                "Financial Institutions and Markets",
+                "International Financial Management",
+                "Business Communication",
+                "Regulation and Financial Market"
+            ]
+        },
+        "S122": {
+            "program": "BSAF",
+            "year": 4,
+            "semester": 8,
+            "home_campus": "City",
+            "courses": [
+                "Regulation and Financial Market",
+                "French Language",
+                "Introduction to Business Finance",
+                "International Financial Management",
+                "Accounting for Shariah Compliance"
+            ]
+        },
+        "S123": {
+            "program": "BSAF",
+            "year": 1,
+            "semester": 7,
+            "home_campus": "City",
+            "courses": [
+                "International Financial Management",
+                "Financial Institutions and Markets",
+                "Business Finance",
+                "French Language",
+                "Accounting for Shariah Compliance"
+            ]
+        },
+        "S124": {
+            "program": "BSAF",
+            "year": 1,
+            "semester": 2,
+            "home_campus": "Main",
+            "courses": [
+                "Regulation and Financial Market",
+                "Business Finance",
+                "Business Communication",
+                "Accounting for Shariah Compliance",
+                "Introduction to Business Finance"
+            ]
+        },
+        "S125": {
+            "program": "BSAF",
+            "year": 2,
+            "semester": 6,
+            "home_campus": "Main",
+            "courses": [
+                "Advanced Business Research",
+                "Statistical Inference",
+                "International Financial Management",
+                "Business Finance",
+                "Business Communication"
+            ]
+        },
+        "S126": {
+            "program": "BSAF",
+            "year": 3,
+            "semester": 7,
+            "home_campus": "City",
+            "courses": [
+                "Financial Institutions and Markets",
+                "International Financial Management",
+                "Business Finance",
+                "Business Communication",
+                "French Language"
+            ]
+        },
+        "S127": {
+            "program": "BSAF",
+            "year": 1,
+            "semester": 2,
+            "home_campus": "Main",
+            "courses": [
+                "Regulation and Financial Market",
+                "Business Finance",
+                "Introduction to Business Finance",
+                "International Financial Management",
+                "Financial Institutions and Markets"
+            ]
+        },
+        "S128": {
+            "program": "BSAF",
+            "year": 2,
+            "semester": 5,
+            "home_campus": "Main",
+            "courses": [
+                "Introduction to Business Finance",
+                "Business Communication",
+                "Statistical Inference",
+                "International Financial Management",
+                "Financial Institutions and Markets"
+            ]
+        },
+        "S129": {
+            "program": "BSAF",
+            "year": 3,
+            "semester": 8,
+            "home_campus": "City",
+            "courses": [
+                "Statistical Inference",
+                "Introduction to Business Finance",
+                "Regulation and Financial Market",
+                "Financial Institutions and Markets",
+                "International Financial Management"
+            ]
+        },
+        "S130": {
+            "program": "BSAF",
+            "year": 2,
+            "semester": 8,
+            "home_campus": "City",
+            "courses": [
+                "Financial Institutions and Markets",
+                "Advanced Business Research",
+                "Business Communication",
+                "Regulation and Financial Market",
+                "Introduction to Business Finance"
+            ]
+        },
+        "S131": {
+            "program": "BSAF",
+            "year": 4,
+            "semester": 1,
+            "home_campus": "Main",
+            "courses": [
+                "Financial Institutions and Markets",
+                "Statistical Inference",
+                "International Financial Management",
+                "Business Communication",
+                "Introduction to Business Finance"
+            ]
+        },
+        "S132": {
+            "program": "BSAF",
+            "year": 4,
+            "semester": 5,
+            "home_campus": "Main",
+            "courses": [
+                "Business Communication",
+                "Introduction to Business Finance",
+                "Regulation and Financial Market",
+                "International Financial Management",
+                "French Language"
+            ]
+        },
+        "S133": {
+            "program": "BSAF",
+            "year": 2,
+            "semester": 2,
+            "home_campus": "City",
+            "courses": [
+                "Regulation and Financial Market",
+                "Financial Institutions and Markets",
+                "French Language",
+                "Statistical Inference",
+                "Business Communication"
+            ]
+        },
+        "S134": {
+            "program": "BSAF",
+            "year": 3,
+            "semester": 5,
+            "home_campus": "City",
+            "courses": [
+                "Business Communication",
+                "Introduction to Business Finance",
+                "International Financial Management",
+                "Advanced Business Research",
+                "French Language"
+            ]
+        },
+        "S135": {
+            "program": "BSAF",
+            "year": 4,
+            "semester": 4,
+            "home_campus": "City",
+            "courses": [
+                "French Language",
+                "Introduction to Business Finance",
+                "Advanced Business Research",
+                "Business Communication",
+                "Financial Institutions and Markets"
+            ]
+        },
+        "S136": {
+            "program": "BSAF",
+            "year": 1,
+            "semester": 8,
+            "home_campus": "City",
+            "courses": [
+                "Introduction to Business Finance",
+                "Financial Institutions and Markets",
+                "International Financial Management",
+                "Business Communication",
+                "Statistical Inference"
+            ]
+        },
+        "S137": {
+            "program": "BSAF",
+            "year": 3,
+            "semester": 8,
+            "home_campus": "Main",
+            "courses": [
+                "Business Communication",
+                "Financial Institutions and Markets",
+                "French Language",
+                "Introduction to Business Finance",
+                "Regulation and Financial Market"
+            ]
+        },
+        "S138": {
+            "program": "BSAF",
+            "year": 1,
+            "semester": 5,
+            "home_campus": "Main",
+            "courses": [
+                "Introduction to Business Finance",
+                "Business Communication",
+                "Statistical Inference",
+                "Financial Institutions and Markets",
+                "French Language"
+            ]
+        },
+        "S139": {
+            "program": "BSAF",
+            "year": 3,
+            "semester": 1,
+            "home_campus": "Main",
+            "courses": [
+                "Business Communication",
+                "Advanced Business Research",
+                "Financial Institutions and Markets",
+                "Introduction to Business Finance",
+                "International Financial Management"
+            ]
+        },
+        "S140": {
+            "program": "BSAF",
+            "year": 2,
+            "semester": 3,
+            "home_campus": "Main",
+            "courses": [
+                "Regulation and Financial Market",
+                "Financial Institutions and Markets",
+                "International Financial Management",
+                "Advanced Business Research",
+                "Introduction to Business Finance"
+            ]
+        },
+        "S141": {
+            "program": "BSAF",
+            "year": 3,
+            "semester": 3,
+            "home_campus": "City",
+            "courses": [
+                "Regulation and Financial Market",
+                "International Financial Management",
+                "Financial Institutions and Markets",
+                "Statistical Inference",
+                "Introduction to Business Finance"
+            ]
+        },
+        "S142": {
+            "program": "BSAF",
+            "year": 2,
+            "semester": 8,
+            "home_campus": "City",
+            "courses": [
+                "Business Communication",
+                "Introduction to Business Finance",
+                "International Financial Management",
+                "Financial Institutions and Markets",
+                "Statistical Inference"
+            ]
+        },
+        "S143": {
+            "program": "BSAF",
+            "year": 2,
+            "semester": 3,
+            "home_campus": "City",
+            "courses": [
+                "Business Communication",
+                "Financial Institutions and Markets",
+                "Statistical Inference",
+                "Regulation and Financial Market",
+                "International Financial Management"
+            ]
+        },
+        "S144": {
+            "program": "BSAF",
+            "year": 1,
+            "semester": 7,
+            "home_campus": "Main",
+            "courses": [
+                "Financial Institutions and Markets",
+                "International Financial Management",
+                "Regulation and Financial Market",
+                "Statistical Inference",
+                "Business Communication"
+            ]
+        },
+        "S145": {
+            "program": "BSAF",
+            "year": 4,
+            "semester": 8,
+            "home_campus": "City",
+            "courses": [
+                "International Financial Management",
+                "Business Communication",
+                "Regulation and Financial Market",
+                "Financial Institutions and Markets"
+            ]
+        },
+        "S146": {
+            "program": "BSAF",
+            "year": 2,
+            "semester": 1,
+            "home_campus": "Main",
+            "courses": [
+                "Business Communication",
+                "International Financial Management",
+                "Regulation and Financial Market",
+                "Financial Institutions and Markets"
+            ]
+        },
+        "S147": {
+            "program": "BSAF",
+            "year": 1,
+            "semester": 5,
+            "home_campus": "Main",
+            "courses": [
+                "Business Communication",
+                "Financial Institutions and Markets",
+                "Regulation and Financial Market",
+                "International Financial Management"
+            ]
+        },
+        "S148": {
+            "program": "BSAF",
+            "year": 3,
+            "semester": 3,
+            "home_campus": "City",
+            "courses": [
+                "Regulation and Financial Market",
+                "Financial Institutions and Markets",
+                "International Financial Management"
+            ]
+        },
+        "S149": {
+            "program": "BSAF",
+            "year": 4,
+            "semester": 4,
+            "home_campus": "Main",
+            "courses": [
+                "International Financial Management",
+                "Regulation and Financial Market",
+                "Financial Institutions and Markets"
+            ]
+        },
+        "S150": {
+            "program": "BSAF",
+            "year": 4,
+            "semester": 5,
+            "home_campus": "City",
+            "courses": [
+                "Regulation and Financial Market",
+                "Financial Institutions and Markets"
+            ]
+        },
+        "S151": {
+            "program": "BSECO",
+            "year": 4,
+            "semester": 7,
+            "home_campus": "Main",
+            "courses": [
+                "Partial Differential Equations",
+                "Environmental Economics",
+                "Applied Econometrics",
+                "Principles of Microeconomics",
+                "Microeconomics"
+            ]
+        },
+        "S152": {
+            "program": "BSECO",
+            "year": 3,
+            "semester": 6,
+            "home_campus": "City",
+            "courses": [
+                "Principles of Microeconomics",
+                "Microeconomics",
+                "Environmental Economics",
+                "Partial Differential Equations",
+                "Applied Econometrics"
+            ]
+        },
+        "S153": {
+            "program": "BSECO",
+            "year": 3,
+            "semester": 3,
+            "home_campus": "Main",
+            "courses": [
+                "Discrete Mathematics",
+                "Applied Econometrics",
+                "Principles of Microeconomics",
+                "Microeconomics",
+                "Environmental Economics"
+            ]
+        },
+        "S154": {
+            "program": "BSECO",
+            "year": 3,
+            "semester": 3,
+            "home_campus": "Main",
+            "courses": [
+                "Discrete Mathematics",
+                "Partial Differential Equations",
+                "Environmental Economics",
+                "Principles of Microeconomics",
+                "Microeconomics"
+            ]
+        },
+        "S155": {
+            "program": "BSECO",
+            "year": 3,
+            "semester": 4,
+            "home_campus": "Main",
+            "courses": [
+                "Environmental Economics",
+                "Microeconomics",
+                "Principles of Microeconomics",
+                "Applied Econometrics",
+                "Discrete Mathematics"
+            ]
+        },
+        "S156": {
+            "program": "BSECO",
+            "year": 3,
+            "semester": 3,
+            "home_campus": "Main",
+            "courses": [
+                "Discrete Mathematics",
+                "Principles of Microeconomics",
+                "Partial Differential Equations",
+                "Environmental Economics",
+                "Applied Econometrics"
+            ]
+        },
+        "S157": {
+            "program": "BSECO",
+            "year": 4,
+            "semester": 7,
+            "home_campus": "Main",
+            "courses": [
+                "Environmental Economics",
+                "Partial Differential Equations",
+                "Discrete Mathematics",
+                "Applied Econometrics",
+                "Principles of Microeconomics"
+            ]
+        },
+        "S158": {
+            "program": "BSECO",
+            "year": 4,
+            "semester": 7,
+            "home_campus": "Main",
+            "courses": [
+                "Partial Differential Equations",
+                "Microeconomics",
+                "Principles of Microeconomics",
+                "Applied Econometrics",
+                "Environmental Economics"
+            ]
+        },
+        "S159": {
+            "program": "BSECO",
+            "year": 2,
+            "semester": 8,
+            "home_campus": "Main",
+            "courses": [
+                "Partial Differential Equations",
+                "Microeconomics",
+                "Environmental Economics",
+                "Applied Econometrics",
+                "Principles of Microeconomics"
+            ]
+        },
+        "S160": {
+            "program": "BSECO",
+            "year": 3,
+            "semester": 8,
+            "home_campus": "Main",
+            "courses": [
+                "Partial Differential Equations",
+                "Applied Econometrics",
+                "Microeconomics",
+                "Principles of Microeconomics",
+                "Environmental Economics"
+            ]
+        },
+        "S161": {
+            "program": "BSECO",
+            "year": 3,
+            "semester": 3,
+            "home_campus": "City",
+            "courses": [
+                "Discrete Mathematics",
+                "Environmental Economics",
+                "Principles of Microeconomics",
+                "Microeconomics",
+                "Applied Econometrics"
+            ]
+        },
+        "S162": {
+            "program": "BSECO",
+            "year": 3,
+            "semester": 1,
+            "home_campus": "Main",
+            "courses": [
+                "Environmental Economics",
+                "Partial Differential Equations",
+                "Applied Econometrics",
+                "Principles of Microeconomics",
+                "Microeconomics"
+            ]
+        },
+        "S163": {
+            "program": "BSECO",
+            "year": 2,
+            "semester": 8,
+            "home_campus": "Main",
+            "courses": [
+                "Partial Differential Equations",
+                "Discrete Mathematics",
+                "Principles of Microeconomics",
+                "Microeconomics",
+                "Applied Econometrics"
+            ]
+        },
+        "S164": {
+            "program": "BSECO",
+            "year": 4,
+            "semester": 7,
+            "home_campus": "City",
+            "courses": [
+                "Applied Econometrics",
+                "Partial Differential Equations",
+                "Principles of Microeconomics",
+                "Microeconomics",
+                "Environmental Economics"
+            ]
+        },
+        "S165": {
+            "program": "BSECO",
+            "year": 4,
+            "semester": 8,
+            "home_campus": "City",
+            "courses": [
+                "Partial Differential Equations",
+                "Principles of Microeconomics",
+                "Microeconomics",
+                "Applied Econometrics",
+                "Environmental Economics"
+            ]
+        },
+        "S166": {
+            "program": "BSECO",
+            "year": 2,
+            "semester": 8,
+            "home_campus": "Main",
+            "courses": [
+                "Partial Differential Equations",
+                "Environmental Economics",
+                "Microeconomics",
+                "Applied Econometrics",
+                "Discrete Mathematics"
+            ]
+        },
+        "S167": {
+            "program": "BSECO",
+            "year": 2,
+            "semester": 1,
+            "home_campus": "City",
+            "courses": [
+                "Environmental Economics",
+                "Principles of Microeconomics",
+                "Applied Econometrics",
+                "Microeconomics",
+                "Discrete Mathematics"
+            ]
+        },
+        "S168": {
+            "program": "BSECO",
+            "year": 3,
+            "semester": 1,
+            "home_campus": "Main",
+            "courses": [
+                "Partial Differential Equations",
+                "Microeconomics",
+                "Discrete Mathematics",
+                "Environmental Economics",
+                "Applied Econometrics"
+            ]
+        },
+        "S169": {
+            "program": "BSECO",
+            "year": 2,
+            "semester": 5,
+            "home_campus": "City",
+            "courses": [
+                "Applied Econometrics",
+                "Partial Differential Equations",
+                "Environmental Economics",
+                "Principles of Microeconomics",
+                "Discrete Mathematics"
+            ]
+        },
+        "S170": {
+            "program": "BSECO",
+            "year": 1,
+            "semester": 8,
+            "home_campus": "Main",
+            "courses": [
+                "Partial Differential Equations",
+                "Applied Econometrics",
+                "Principles of Microeconomics",
+                "Environmental Economics",
+                "Discrete Mathematics"
+            ]
+        },
+        "S171": {
+            "program": "BSECO",
+            "year": 3,
+            "semester": 5,
+            "home_campus": "Main",
+            "courses": [
+                "Applied Econometrics",
+                "Discrete Mathematics",
+                "Principles of Microeconomics",
+                "Partial Differential Equations",
+                "Environmental Economics"
+            ]
+        },
+        "S172": {
+            "program": "BSECO",
+            "year": 2,
+            "semester": 8,
+            "home_campus": "City",
+            "courses": [
+                "Partial Differential Equations",
+                "Discrete Mathematics",
+                "Applied Econometrics",
+                "Environmental Economics",
+                "Principles of Microeconomics"
+            ]
+        },
+        "S173": {
+            "program": "BSECO",
+            "year": 2,
+            "semester": 2,
+            "home_campus": "City",
+            "courses": [
+                "Environmental Economics",
+                "Partial Differential Equations",
+                "Discrete Mathematics",
+                "Principles of Microeconomics",
+                "Applied Econometrics"
+            ]
+        },
+        "S174": {
+            "program": "BSECO",
+            "year": 4,
+            "semester": 1,
+            "home_campus": "City",
+            "courses": [
+                "Principles of Microeconomics",
+                "Environmental Economics",
+                "Discrete Mathematics",
+                "Applied Econometrics",
+                "Partial Differential Equations"
+            ]
+        },
+        "S175": {
+            "program": "BSECO",
+            "year": 1,
+            "semester": 6,
+            "home_campus": "City",
+            "courses": [
+                "Principles of Microeconomics",
+                "Partial Differential Equations",
+                "Discrete Mathematics",
+                "Applied Econometrics",
+                "Environmental Economics"
+            ]
+        },
+        "S176": {
+            "program": "BSECO",
+            "year": 2,
+            "semester": 2,
+            "home_campus": "Main",
+            "courses": [
+                "Principles of Microeconomics",
+                "Applied Econometrics",
+                "Environmental Economics",
+                "Partial Differential Equations",
+                "Discrete Mathematics"
+            ]
+        },
+        "S177": {
+            "program": "BSECO",
+            "year": 4,
+            "semester": 6,
+            "home_campus": "Main",
+            "courses": [
+                "Principles of Microeconomics",
+                "Applied Econometrics",
+                "Discrete Mathematics",
+                "Environmental Economics",
+                "Partial Differential Equations"
+            ]
+        },
+        "S178": {
+            "program": "BSECO",
+            "year": 2,
+            "semester": 3,
+            "home_campus": "Main",
+            "courses": [
+                "Discrete Mathematics",
+                "Partial Differential Equations",
+                "Applied Econometrics",
+                "Environmental Economics",
+                "Principles of Microeconomics"
+            ]
+        },
+        "S179": {
+            "program": "BSECO",
+            "year": 3,
+            "semester": 1,
+            "home_campus": "City",
+            "courses": [
+                "Applied Econometrics",
+                "Partial Differential Equations",
+                "Discrete Mathematics",
+                "Environmental Economics"
+            ]
+        },
+        "S180": {
+            "program": "BSECO",
+            "year": 3,
+            "semester": 3,
+            "home_campus": "City",
+            "courses": [
+                "Discrete Mathematics",
+                "Partial Differential Equations",
+                "Applied Econometrics",
+                "Environmental Economics"
+            ]
+        },
+        "S181": {
+            "program": "BSECO",
+            "year": 3,
+            "semester": 5,
+            "home_campus": "Main",
+            "courses": [
+                "Applied Econometrics",
+                "Discrete Mathematics",
+                "Environmental Economics",
+                "Partial Differential Equations"
+            ]
+        },
+        "S182": {
+            "program": "BSECO",
+            "year": 4,
+            "semester": 3,
+            "home_campus": "Main",
+            "courses": [
+                "Discrete Mathematics",
+                "Applied Econometrics",
+                "Partial Differential Equations",
+                "Environmental Economics"
+            ]
+        },
+        "S183": {
+            "program": "BSECO",
+            "year": 2,
+            "semester": 5,
+            "home_campus": "Main",
+            "courses": [
+                "Applied Econometrics",
+                "Partial Differential Equations",
+                "Environmental Economics",
+                "Discrete Mathematics"
+            ]
+        },
+        "S184": {
+            "program": "BSECO",
+            "year": 2,
+            "semester": 4,
+            "home_campus": "City",
+            "courses": [
+                "Environmental Economics",
+                "Partial Differential Equations",
+                "Discrete Mathematics",
+                "Applied Econometrics"
+            ]
+        },
+        "S185": {
+            "program": "BSECO",
+            "year": 4,
+            "semester": 4,
+            "home_campus": "City",
+            "courses": [
+                "Environmental Economics",
+                "Applied Econometrics",
+                "Partial Differential Equations",
+                "Discrete Mathematics"
+            ]
+        },
+        "S186": {
+            "program": "BSECO",
+            "year": 3,
+            "semester": 3,
+            "home_campus": "City",
+            "courses": [
+                "Discrete Mathematics",
+                "Environmental Economics",
+                "Partial Differential Equations",
+                "Applied Econometrics"
+            ]
+        },
+        "S187": {
+            "program": "BSECO",
+            "year": 4,
+            "semester": 7,
+            "home_campus": "Main",
+            "courses": [
+                "Discrete Mathematics",
+                "Partial Differential Equations",
+                "Environmental Economics",
+                "Applied Econometrics"
+            ]
+        },
+        "S188": {
+            "program": "BSECO",
+            "year": 4,
+            "semester": 2,
+            "home_campus": "City",
+            "courses": [
+                "Applied Econometrics",
+                "Environmental Economics",
+                "Partial Differential Equations"
+            ]
+        },
+        "S189": {
+            "program": "BSECO",
+            "year": 4,
+            "semester": 6,
+            "home_campus": "City",
+            "courses": [
+                "Partial Differential Equations",
+                "Applied Econometrics",
+                "Environmental Economics"
+            ]
+        },
+        "S190": {
+            "program": "BSECO",
+            "year": 1,
+            "semester": 6,
+            "home_campus": "Main",
+            "courses": [
+                "Applied Econometrics",
+                "Partial Differential Equations",
+                "Environmental Economics"
+            ]
+        },
+        "S191": {
+            "program": "BSECO",
+            "year": 3,
+            "semester": 8,
+            "home_campus": "Main",
+            "courses": [
+                "Partial Differential Equations",
+                "Environmental Economics",
+                "Applied Econometrics"
+            ]
+        },
+        "S192": {
+            "program": "BSECO",
+            "year": 2,
+            "semester": 7,
+            "home_campus": "City",
+            "courses": [
+                "Partial Differential Equations",
+                "Applied Econometrics",
+                "Environmental Economics"
+            ]
+        },
+        "S193": {
+            "program": "BSECO",
+            "year": 4,
+            "semester": 4,
+            "home_campus": "City",
+            "courses": [
+                "Partial Differential Equations",
+                "Applied Econometrics"
+            ]
+        },
+        "S194": {
+            "program": "BSECO",
+            "year": 3,
+            "semester": 6,
+            "home_campus": "City",
+            "courses": [
+                "Partial Differential Equations"
+            ]
+        },
+        "S195": {
+            "program": "BSECO",
+            "year": 4,
+            "semester": 3,
+            "home_campus": "City",
+            "courses": [
+                "Partial Differential Equations"
+            ]
+        },
+        "S196": {
+            "program": "BSECO",
+            "year": 1,
+            "semester": 1,
+            "home_campus": "Main",
+            "courses": [
+                "Partial Differential Equations"
+            ]
+        },
+        "S197": {
+            "program": "BSECO",
+            "year": 1,
+            "semester": 8,
+            "home_campus": "Main",
+            "courses": [
+                "Partial Differential Equations"
+            ]
+        },
+        "S198": {
+            "program": "BSECO",
+            "year": 4,
+            "semester": 3,
+            "home_campus": "City",
+            "courses": []
+        },
+        "S199": {
+            "program": "BSECO",
+            "year": 4,
+            "semester": 1,
+            "home_campus": "Main",
+            "courses": []
+        },
+        "S200": {
+            "program": "BSECO",
+            "year": 3,
+            "semester": 3,
+            "home_campus": "Main",
+            "courses": []
+        }
+    },
+    "courses": [
+        "Introduction to Programming",
+        "Data Structures",
+        "Human Computer Interaction",
+        "Reinforcement Learning",
+        "Machine Learning",
+        "Data Warehousing",
+        "Business Communication",
+        "Introduction to Business Finance",
+        "Financial Institutions and Markets",
+        "Principles of Marketing",
+        "Human Resource Management",
+        "Business Intelligence",
+        "Microeconomics",
+        "Principles of Microeconomics",
+        "Managerial Economics",
+        "Applied Econometrics",
+        "Environmental Economics",
+        "Discrete Mathematics",
+        "Partial Differential Equations",
+        "Introduction to Business Ethics",
+        "History of Ideas",
+        "Arabic Language",
+        "French Language",
+        "Introduction to Trade Marketing",
+        "Accounting for Shariah Compliance",
+        "Statistical Inference",
+        "Advanced Business Research",
+        "International Financial Management",
+        "Regulation and Financial Market",
+        "Business Finance"
+    ],
+    "rooms": {
+        "Main_R1": {
+            "capacity": 31,
+            "campus": "Main"
+        },
+        "Main_R2": {
+            "capacity": 33,
+            "campus": "Main"
+        },
+        "Main_R3": {
+            "capacity": 43,
+            "campus": "Main"
+        },
+        "Main_R4": {
+            "capacity": 40,
+            "campus": "Main"
+        },
+        "Main_R5": {
+            "capacity": 45,
+            "campus": "Main"
+        },
+        "Main_R6": {
+            "capacity": 33,
+            "campus": "Main"
+        },
+        "Main_R7": {
+            "capacity": 34,
+            "campus": "Main"
+        },
+        "Main_R8": {
+            "capacity": 30,
+            "campus": "Main"
+        },
+        "Main_R9": {
+            "capacity": 35,
+            "campus": "Main"
+        },
+        "Main_R10": {
+            "capacity": 43,
+            "campus": "Main"
+        },
+        "City_R1": {
+            "capacity": 45,
+            "campus": "City"
+        },
+        "City_R2": {
+            "capacity": 45,
+            "campus": "City"
+        },
+        "City_R3": {
+            "capacity": 36,
+            "campus": "City"
+        },
+        "City_R4": {
+            "capacity": 39,
+            "campus": "City"
+        },
+        "City_R5": {
+            "capacity": 40,
+            "campus": "City"
+        },
+        "City_R6": {
+            "capacity": 39,
+            "campus": "City"
+        },
+        "City_R7": {
+            "capacity": 31,
+            "campus": "City"
+        },
+        "City_R8": {
+            "capacity": 32,
+            "campus": "City"
+        },
+        "City_R9": {
+            "capacity": 37,
+            "campus": "City"
+        },
+        "City_R10": {
+            "capacity": 31,
+            "campus": "City"
+        }
+    },
+    "timeslots": [
+        "Day1_08:30-11:30",
+        "Day1_11:30-14:30",
+        "Day1_14:30-17:30",
+        "Day2_08:30-11:30",
+        "Day2_11:30-14:30",
+        "Day2_14:30-17:30",
+        "Day3_08:30-11:30",
+        "Day3_11:30-14:30",
+        "Day3_14:30-17:30"
+    ],
+    "campuses": [
+        "Main",
+        "City"
+    ],
+    "course_info": {
+        "Introduction to Programming": {
+            "programs": [
+                "BSCS"
+            ],
+            "semester": 7,
+            "capacity": 35,
+            "type": "core",
+            "preferred_campus": "Main",
+            "preferred_time": "Day1_08:30-11:30"
+        },
+        "Data Structures": {
+            "programs": [
+                "BSCS"
+            ],
+            "semester": 8,
+            "capacity": 42,
+            "type": "core",
+            "preferred_campus": "Main",
+            "preferred_time": "Day2_11:30-14:30"
+        },
+        "Human Computer Interaction": {
+            "programs": [
+                "BSCS"
+            ],
+            "semester": 1,
+            "capacity": 31,
+            "type": "core",
+            "preferred_campus": "City",
+            "preferred_time": "Day1_11:30-14:30"
+        },
+        "Reinforcement Learning": {
+            "programs": [
+                "BSCS"
+            ],
+            "semester": 5,
+            "capacity": 40,
+            "type": "core",
+            "preferred_campus": "City",
+            "preferred_time": "Day3_14:30-17:30"
+        },
+        "Machine Learning": {
+            "programs": [
+                "BSCS"
+            ],
+            "semester": 3,
+            "capacity": 45,
+            "type": "core",
+            "preferred_campus": "City",
+            "preferred_time": "Day2_11:30-14:30"
+        },
+        "Data Warehousing": {
+            "programs": [
+                "BSCS"
+            ],
+            "semester": 2,
+            "capacity": 36,
+            "type": "core",
+            "preferred_campus": "City",
+            "preferred_time": "Day1_14:30-17:30"
+        },
+        "Business Communication": {
+            "programs": [
+                "BBA",
+                "BSAF"
+            ],
+            "semester": 5,
+            "capacity": 44,
+            "type": "core",
+            "preferred_campus": "Main",
+            "preferred_time": "Day1_08:30-11:30"
+        },
+        "Introduction to Business Finance": {
+            "programs": [
+                "BBA",
+                "BSAF"
+            ],
+            "semester": 5,
+            "capacity": 40,
+            "type": "core",
+            "preferred_campus": "Main",
+            "preferred_time": "Day1_14:30-17:30"
+        },
+        "Financial Institutions and Markets": {
+            "programs": [
+                "BSAF"
+            ],
+            "semester": 7,
+            "capacity": 42,
+            "type": "core",
+            "preferred_campus": "City",
+            "preferred_time": "Day1_11:30-14:30"
+        },
+        "Principles of Marketing": {
+            "programs": [
+                "BBA"
+            ],
+            "semester": 2,
+            "capacity": 42,
+            "type": "core",
+            "preferred_campus": "Main",
+            "preferred_time": "Day1_14:30-17:30"
+        },
+        "Human Resource Management": {
+            "programs": [
+                "BBA"
+            ],
+            "semester": 6,
+            "capacity": 45,
+            "type": "core",
+            "preferred_campus": "Main",
+            "preferred_time": "Day1_08:30-11:30"
+        },
+        "Business Intelligence": {
+            "programs": [
+                "BBA"
+            ],
+            "semester": 7,
+            "capacity": 38,
+            "type": "core",
+            "preferred_campus": "Main",
+            "preferred_time": "Day3_11:30-14:30"
+        },
+        "Microeconomics": {
+            "programs": [
+                "BSECO",
+                "BBA"
+            ],
+            "semester": 6,
+            "capacity": 38,
+            "type": "core",
+            "preferred_campus": "City",
+            "preferred_time": "Day1_08:30-11:30"
+        },
+        "Principles of Microeconomics": {
+            "programs": [
+                "BSECO",
+                "BBA"
+            ],
+            "semester": 6,
+            "capacity": 38,
+            "type": "core",
+            "preferred_campus": "Main",
+            "preferred_time": "Day1_08:30-11:30"
+        },
+        "Managerial Economics": {
+            "programs": [
+                "BBA"
+            ],
+            "semester": 8,
+            "capacity": 33,
+            "type": "core",
+            "preferred_campus": "City",
+            "preferred_time": "Day1_14:30-17:30"
+        },
+        "Applied Econometrics": {
+            "programs": [
+                "BSECO"
+            ],
+            "semester": 5,
+            "capacity": 42,
+            "type": "core",
+            "preferred_campus": "Main",
+            "preferred_time": "Day2_11:30-14:30"
+        },
+        "Environmental Economics": {
+            "programs": [
+                "BSECO"
+            ],
+            "semester": 4,
+            "capacity": 41,
+            "type": "core",
+            "preferred_campus": "Main",
+            "preferred_time": "Day1_14:30-17:30"
+        },
+        "Discrete Mathematics": {
+            "programs": [
+                "BSCS",
+                "BSECO"
+            ],
+            "semester": 3,
+            "capacity": 45,
+            "type": "core",
+            "preferred_campus": "City",
+            "preferred_time": "Day2_14:30-17:30"
+        },
+        "Partial Differential Equations": {
+            "programs": [
+                "BSECO"
+            ],
+            "semester": 8,
+            "capacity": 43,
+            "type": "core",
+            "preferred_campus": "Main",
+            "preferred_time": "Day2_08:30-11:30"
+        },
+        "Introduction to Business Ethics": {
+            "programs": [
+                "ALL"
+            ],
+            "semester": 8,
+            "capacity": 32,
+            "type": "elective",
+            "preferred_campus": "City",
+            "preferred_time": "Day1_11:30-14:30"
+        },
+        "History of Ideas": {
+            "programs": [
+                "ALL"
+            ],
+            "semester": 1,
+            "capacity": 33,
+            "type": "elective",
+            "preferred_campus": "Main",
+            "preferred_time": "Day3_14:30-17:30"
+        },
+        "Arabic Language": {
+            "programs": [
+                "ALL"
+            ],
+            "semester": 3,
+            "capacity": 34,
+            "type": "elective",
+            "preferred_campus": "City",
+            "preferred_time": "Day3_14:30-17:30"
+        },
+        "French Language": {
+            "programs": [
+                "ALL"
+            ],
+            "semester": 2,
+            "capacity": 44,
+            "type": "elective",
+            "preferred_campus": "Main",
+            "preferred_time": "Day3_11:30-14:30"
+        },
+        "Introduction to Trade Marketing": {
+            "programs": [
+                "ALL"
+            ],
+            "semester": 8,
+            "capacity": 32,
+            "type": "elective",
+            "preferred_campus": "Main",
+            "preferred_time": "Day3_11:30-14:30"
+        },
+        "Accounting for Shariah Compliance": {
+            "programs": [
+                "ALL"
+            ],
+            "semester": 7,
+            "capacity": 34,
+            "type": "elective",
+            "preferred_campus": "City",
+            "preferred_time": "Day1_08:30-11:30"
+        },
+        "Statistical Inference": {
+            "programs": [
+                "ALL"
+            ],
+            "semester": 5,
+            "capacity": 44,
+            "type": "elective",
+            "preferred_campus": "Main",
+            "preferred_time": "Day3_08:30-11:30"
+        },
+        "Advanced Business Research": {
+            "programs": [
+                "ALL"
+            ],
+            "semester": 1,
+            "capacity": 38,
+            "type": "elective",
+            "preferred_campus": "Main",
+            "preferred_time": "Day1_11:30-14:30"
+        },
+        "International Financial Management": {
+            "programs": [
+                "BSAF"
+            ],
+            "semester": 7,
+            "capacity": 31,
+            "type": "core",
+            "preferred_campus": "City",
+            "preferred_time": "Day1_11:30-14:30"
+        },
+        "Regulation and Financial Market": {
+            "programs": [
+                "BSAF"
+            ],
+            "semester": 2,
+            "capacity": 31,
+            "type": "core",
+            "preferred_campus": "City",
+            "preferred_time": "Day1_08:30-11:30"
+        },
+        "Business Finance": {
+            "programs": [
+                "BBA",
+                "BSAF"
+            ],
+            "semester": 7,
+            "capacity": 39,
+            "type": "core",
+            "preferred_campus": "Main",
+            "preferred_time": "Day1_14:30-17:30"
+        }
+    }
+}
