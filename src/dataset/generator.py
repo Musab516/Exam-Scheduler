@@ -52,16 +52,17 @@ COURSES = list(COURSE_PROGRAM_MAP.keys())
 def generate_dataset(difficulty):
 
     if difficulty == "easy":
-        num_students = 120
-        num_days = 2
+        num_students = 250    # was 120
+        num_days = 3          # was 2
+        rooms_per_campus = 12 # was 10
     elif difficulty == "medium":
-        num_students = 200
-        num_days = 3
-    else:
-        num_students = 300
-        num_days = 4
-
-    rooms_per_campus = 10
+        num_students = 350    # was 200
+        num_days = 4          # was 3
+        rooms_per_campus = 14 # was 10
+    else:  # hard
+        num_students = 400    # was 300
+        num_days = 5          # was 4
+        rooms_per_campus = 16 # was 10
 
     rooms = {}
     for campus in CAMPUSES:
@@ -205,12 +206,13 @@ def save_all(data, name):
             writer.writerow([t])
 
 if __name__ == "__main__":
-    easy = generate_dataset("easy")
+    easy   = generate_dataset("easy")
     medium = generate_dataset("medium")
-    hard = generate_dataset("hard")
+    hard   = generate_dataset("hard")
 
-    save_all(easy, "easy")
+    save_all(easy,   "easy")
     save_all(medium, "medium")
-    save_all(hard, "hard")
+    save_all(hard,   "hard")
 
-    print("Success")
+    print(f"Success")
+    
