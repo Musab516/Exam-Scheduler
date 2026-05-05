@@ -7,7 +7,7 @@ def run_all():
     print("\n Running ALL configurations...\n")
 
     # Load dataset
-    with open("dataset/data/hard.json") as f:
+    with open("dataset/data/medium.json") as f:
         data = json.load(f)
 
     results = []

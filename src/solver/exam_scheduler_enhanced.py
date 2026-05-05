@@ -19,7 +19,7 @@ class SolverConfig:
     campus_preference_weight: float = 10.0
     back_to_back_penalty: float = 5.0
 
-    max_time_seconds: float = 30 # Time limit for solving (can be used to implement a timeout in backtracking)
+    max_time_seconds: float = 15 # Time limit for solving (can be used to implement a timeout in backtracking)
     
     def name(self) -> str:
         #Generate descriptive name for this configuration.
@@ -416,7 +416,7 @@ def solve_with_config(data, config: SolverConfig) -> SolverMetrics:
             time_preference_weight=config.time_preference_weight,
             campus_preference_weight=config.campus_preference_weight,
             back_to_back_penalty=config.back_to_back_penalty,
-            max_time_seconds=60.0,
+            max_time_seconds=15.0,
         )
 
     stats = {"nodes": 0}

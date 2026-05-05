@@ -1,7 +1,7 @@
-time_seconds,solution_found,description,solution_quality,nodes_explored,soft_constraint_violations,soft_violations,avg_solution_quality,hard_constraint_violations,algorithm_name,config_name,hard_violations
-60.048,False,,,48434,0,,0.0,0,,"Basic_SC(10,10,5)",
-60.059,False,,,11710,0,,0.0,0,,"MRV_SC(10,10,5)",
-60.051,False,,,11199,0,,0.0,0,,"MRV+Degree_SC(10,10,5)",
-7.109,True,,,31,93,,-2.0,0,,"MRV+Degree+FC_SC(10,10,5)",
-0.0,True,Random slot assignment (baseline),-4.0,52,,42,,,Random Assignment,,0
-0.008,True,Greedy first-fit assignment,-4.0,5427,,42,,,Greedy Assignment,,0
+nodes_explored,time_seconds,soft_constraint_violations,config_name,algorithm_name,solution_quality,description,solution_found,hard_violations,avg_solution_quality,soft_violations,hard_constraint_violations
+23294,15.044,0,"Basic_SC(10,10,5)",,,,False,,0.0,,0
+6668,15.072,0,"MRV_SC(10,10,5)",,,,False,,0.0,,0
+31,0.015,61,"MRV+Degree_SC(10,10,5)",,,,True,,7.0,,0
+31,9.943,93,"MRV+Degree+FC_SC(10,10,5)",,,,True,,-2.33,,0
+88,0.001,,,Random Assignment,-3.33,Random slot assignment (baseline),True,0,,40,
+4565,0.01,,,Greedy Assignment,-3.33,Greedy first-fit assignment,True,0,,40,
