@@ -1,0 +1,7 @@
+time_seconds,solution_found,description,solution_quality,nodes_explored,soft_constraint_violations,soft_violations,avg_solution_quality,hard_constraint_violations,algorithm_name,config_name,hard_violations
+60.048,False,,,48434,0,,0.0,0,,"Basic_SC(10,10,5)",
+60.059,False,,,11710,0,,0.0,0,,"MRV_SC(10,10,5)",
+60.051,False,,,11199,0,,0.0,0,,"MRV+Degree_SC(10,10,5)",
+7.109,True,,,31,93,,-2.0,0,,"MRV+Degree+FC_SC(10,10,5)",
+0.0,True,Random slot assignment (baseline),-4.0,52,,42,,,Random Assignment,,0
+0.008,True,Greedy first-fit assignment,-4.0,5427,,42,,,Greedy Assignment,,0

@@ -52,13 +52,13 @@ COURSES = list(COURSE_PROGRAM_MAP.keys())
 def generate_dataset(difficulty):
 
     if difficulty == "easy":
-        num_students = 250    # was 120
-        num_days = 3          # was 2
-        rooms_per_campus = 12 # was 10
-    elif difficulty == "medium":
-        num_students = 350    # was 200
-        num_days = 4          # was 3
+        num_students = 200    # was 120
+        num_days = 6          # was 2
         rooms_per_campus = 14 # was 10
+    elif difficulty == "medium":
+        num_students = 300    # was 200
+        num_days = 5          # was 3
+        rooms_per_campus = 13 # was 10
     else:  # hard
         num_students = 400    # was 300
         num_days = 5          # was 4
@@ -75,7 +75,8 @@ def generate_dataset(difficulty):
     daily_slots = [
         "08:30-11:30",
         "11:30-14:30",
-        "14:30-17:30"
+        "14:30-17:30",
+        "17:30-20:30"
     ]
 
     timeslots = []
